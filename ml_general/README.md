@@ -1,0 +1,18 @@
+# Ml General
+
+14 entries.
+
+- [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
+- [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
+- [Non-Destructive Task Composition for Transfer Learning](2005.00247.md)
+- [Hubert Ramsauer∗ Bernhard Schäfl∗ Johannes Lehner∗ Philipp Seidl∗](2008.02217.md)
+- [Mihir Chauhan†† Abhishek Satbhai§ Mohammad Abuzar Hashemi¶ Mir Basheer Ali¶¶](2407.21788.md)
+- [NEMOTRON-CROSSTHINK : Scaling Self-Learning beyond Math Reasoning](2504.13941.md)
+- [Emergent Semantics Beyond Token Embeddings: Trans￾former LMs with Frozen Visual Unicode Representations](2507.04886.md)
+- [Department of Electrical and Computer Engineering, Princeton University](2510.09580.md)
+- [Published as a conference paper at ICLR 2026](published_as_a_conference_paper_at_iclr_2026.md)
+- [Scientific Journal of Technology																																																																																																																									Volume 8 Issue 1, 2026](scientific_journal_of_technology_volume_8_issue_1_2026.md)
+- [The deployment of large language models in rigorous mathematical domains requires](the_deployment_of_large_language_models_in_rigorous_mathematical_domains_require.md)
+- [The Theoretical Foundations of Fluid Intelligence and](the_theoretical_foundations_of_fluid_intelligence_and.md)
+- [The transition of artificial intelligence from conversational large language models (LLMs) to](the_transition_of_artificial_intelligence_from_conversational_large_language_mod.md)
+- [Topological Knowledge Debridement in](topological_knowledge_debridement_in.md)

@@ -1,0 +1,918 @@
+{
+  "by_topic": {
+    "ml_general": 14,
+    "math_theory": 26,
+    "deployment": 3,
+    "other": 7,
+    "nlp": 4,
+    "ocr": 2,
+    "audio_speech": 6,
+    "htr": 6,
+    "vision": 2,
+    "rl": 2,
+    "hdc_vsa": 35,
+    "neuroscience": 15,
+    "neuromorphic": 5,
+    "synth_data": 1
+  },
+  "total_written": 128,
+  "total_kept_manual": 15,
+  "rows": [
+    {
+      "pdf": ".pdf",
+      "topic": "ml_general",
+      "slug": "published_as_a_conference_paper_at_iclr_2026",
+      "title": "Published as a conference paper at ICLR 2026",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "10 The Predictive Oscillatory Cortex with CCO cont.pdf",
+      "topic": "math_theory",
+      "slug": "14_h_t_1_normalize_tanh_alpha_h_t_v_t_1_position_on_hypersphere",
+      "title": "14 H_{t+1} = normalize(tanh(alpha * H_t + V_{t+1})) (position on hypersphere)",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "14010_Toward_a_Sheaf_Theoretic.pdf",
+      "topic": "ml_general",
+      "slug": "14010_toward_a_sheaf_theoretic",
+      "title": "",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "1503.02531v1.pdf",
+      "topic": "deployment",
+      "slug": "1503.02531",
+      "title": "Distilling the Knowledge in a Neural Network",
+      "arxiv_id": "1503.02531"
+    },
+    {
+      "pdf": "1909.02548v1.pdf",
+      "topic": "other",
+      "slug": "1909.02548",
+      "title": "CHAUHAN, SHAIKH ET AL.: EXPLANATION BASED HANDWRITING VERIFICATION 1",
+      "arxiv_id": "1909.02548"
+    },
+    {
+      "pdf": "2005.00247v3.pdf",
+      "topic": "ml_general",
+      "slug": "2005.00247",
+      "title": "Non-Destructive Task Composition for Transfer Learning",
+      "arxiv_id": "2005.00247"
+    },
+    {
+      "pdf": "2008.02217v3.pdf",
+      "topic": "ml_general",
+      "slug": "2008.02217",
+      "title": "Hubert Ramsauer\u2217 Bernhard Sch\u00e4fl\u2217 Johannes Lehner\u2217 Philipp Seidl\u2217",
+      "arxiv_id": "2008.02217"
+    },
+    {
+      "pdf": "2022.findings-naacl.48.pdf",
+      "topic": "nlp",
+      "slug": "findings_of_the_association_for_computational_linguistics_naacl_2022_pages_633_-",
+      "title": "Findings of the Association for Computational Linguistics: NAACL 2022, pages 633",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "2025.07.09.663724.full.pdf",
+      "topic": "ocr",
+      "slug": "extraction_of_printed_specimen_labels",
+      "title": "Extraction of Printed Specimen Labels",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "2025_DGMM-Spectrogram_denoising_by_filtering_max-trees.pdf",
+      "topic": "audio_speech",
+      "slug": "for_the_deposit_and_dissemination_of_scientific_re_search_documents_whether_they",
+      "title": "for the deposit and dissemination of scientific re\ufffesearch documents, whether the",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "2206.00606v3.pdf",
+      "topic": "math_theory",
+      "slug": "2206.00606",
+      "title": "Topological Deep Learning: Going Beyond Graph Data",
+      "arxiv_id": "2206.00606"
+    },
+    {
+      "pdf": "2305.14280v2.pdf",
+      "topic": "nlp",
+      "slug": "2305.14280",
+      "title": "Elizabeth SaleskyJ Neha VermaJ Philipp KoehnJ Matt PostH, M",
+      "arxiv_id": "2305.14280"
+    },
+    {
+      "pdf": "2402.04214v1.pdf",
+      "topic": "other",
+      "slug": "2402.04214",
+      "title": "Vasco Cavina,1, 2, \u2217 Ariane Soret,1, \u2020 Timur Aslyamov,1 Krzysztof Ptaszy\u00b4nski,1,",
+      "arxiv_id": "2402.04214"
+    },
+    {
+      "pdf": "2406.11251v2.pdf",
+      "topic": "ocr",
+      "slug": "2406.11251",
+      "title": "David R. Cheriton School of Computer Science, University of Waterloo",
+      "arxiv_id": "2406.11251"
+    },
+    {
+      "pdf": "2407.21788v1.pdf",
+      "topic": "ml_general",
+      "slug": "2407.21788",
+      "title": "Mihir Chauhan\u2020\u2020 Abhishek Satbhai\u00a7 Mohammad Abuzar Hashemi\u00b6 Mir Basheer Ali\u00b6\u00b6",
+      "arxiv_id": "2407.21788"
+    },
+    {
+      "pdf": "2409.05699v1.pdf",
+      "topic": "htr",
+      "slug": "2409.05699",
+      "title": "aDAIS, Ca\u2019 Foscari University of Venice, via Torino 155, Venice, 30172, Italy",
+      "arxiv_id": "2409.05699"
+    },
+    {
+      "pdf": "2410.12628v1.pdf",
+      "topic": "vision",
+      "slug": "2410.12628",
+      "title": "DOCLAYOUT-YOLO: ENHANCING DOCUMENT LAY\ufffeOUT ANALYSIS THROUGH DIVERSE SYNTHETIC DA",
+      "arxiv_id": "2410.12628"
+    },
+    {
+      "pdf": "2502.08417v1.pdf",
+      "topic": "htr",
+      "slug": "2502.08417",
+      "title": "Carlos Garrido-Munoz, Antonio Rios-Vila, and Jorge Calvo-Zaragoza",
+      "arxiv_id": "2502.08417"
+    },
+    {
+      "pdf": "2502.20040v1.pdf",
+      "topic": "audio_speech",
+      "slug": "2502.20040",
+      "title": "Nian Shao, Rui Zhou, Pengyu Wang, Xian Li, Ying Fang, Yujie Yang and Xiaofei Li",
+      "arxiv_id": "2502.20040"
+    },
+    {
+      "pdf": "2504.01757v3.pdf",
+      "topic": "deployment",
+      "slug": "2504.01757",
+      "title": "KD2M: A UNIFYING FRAMEWORK FOR FEATURE KNOWLEDGE",
+      "arxiv_id": "2504.01757"
+    },
+    {
+      "pdf": "2504.13825v1.pdf",
+      "topic": "deployment",
+      "slug": "2504.13825",
+      "title": ", Ziqian Bi\u22174,12, Tianyang Wang5,12, Chia Xin Liang6,12",
+      "arxiv_id": "2504.13825"
+    },
+    {
+      "pdf": "2504.13941v1.pdf",
+      "topic": "ml_general",
+      "slug": "2504.13941",
+      "title": "NEMOTRON-CROSSTHINK : Scaling Self-Learning beyond Math Reasoning",
+      "arxiv_id": "2504.13941"
+    },
+    {
+      "pdf": "2505.00949v5.pdf",
+      "topic": "rl",
+      "slug": "2505.00949",
+      "title": "models that deliver exceptional reasoning capabilities, inference efficiency, an",
+      "arxiv_id": "2505.00949"
+    },
+    {
+      "pdf": "2505.20513v1.pdf",
+      "topic": "htr",
+      "slug": "2505.20513",
+      "title": "Department of Computer Science and Software Engineering, Concordia University",
+      "arxiv_id": "2505.20513"
+    },
+    {
+      "pdf": "2507.04886v4.pdf",
+      "topic": "ml_general",
+      "slug": "2507.04886",
+      "title": "Emergent Semantics Beyond Token Embeddings: Trans\ufffeformer LMs with Frozen Visual ",
+      "arxiv_id": "2507.04886"
+    },
+    {
+      "pdf": "2507.14185v1.pdf",
+      "topic": "vision",
+      "slug": "2507.14185",
+      "title": "Latent Sensor Fusion: Multimedia Learning of Physiological",
+      "arxiv_id": "2507.14185"
+    },
+    {
+      "pdf": "2510.09580v2.pdf",
+      "topic": "ml_general",
+      "slug": "2510.09580",
+      "title": "Department of Electrical and Computer Engineering, Princeton University",
+      "arxiv_id": "2510.09580"
+    },
+    {
+      "pdf": "2605.10845v1.pdf",
+      "topic": "nlp",
+      "slug": "2605.10845",
+      "title": "BabelDOC: Better Layout-Preserving PDF Translation via Intermediate",
+      "arxiv_id": "2605.10845"
+    },
+    {
+      "pdf": "AI Theorems Research Paper Outline.pdf",
+      "topic": "math_theory",
+      "slug": "i._introduction_the_epistemological_boundaries_of",
+      "title": "I. Introduction: The Epistemological Boundaries of",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "AIMO3_ AI Math Olympiad Strategy (1).pdf",
+      "topic": "hdc_vsa",
+      "slug": "mathematical_reasoning_integrating",
+      "title": "Mathematical Reasoning: Integrating",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "ARC Solver Development Roadmap.pdf",
+      "topic": "hdc_vsa",
+      "slug": "intelligence_advancing_the_arc_solver",
+      "title": "Intelligence: Advancing the ARC Solver",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "ARC Task Refinement and Limitations.pdf",
+      "topic": "ml_general",
+      "slug": "the_theoretical_foundations_of_fluid_intelligence_and",
+      "title": "The Theoretical Foundations of Fluid Intelligence and",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Adelic Workspace for Conscious Thought (1).pdf",
+      "topic": "math_theory",
+      "slug": "unifying_parallel_processing_and_active",
+      "title": "Unifying Parallel Processing and Active",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Adelic Workspace for Conscious Thought (3).pdf",
+      "topic": "neuroscience",
+      "slug": "introduction_to_the_unified_architecture",
+      "title": "Introduction to the Unified Architecture",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced AI for Computer Navigation.pdf",
+      "topic": "ml_general",
+      "slug": "the_transition_of_artificial_intelligence_from_conversational_large_language_mod",
+      "title": "The transition of artificial intelligence from conversational large language mod",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced HDC System Innovations.pdf",
+      "topic": "math_theory",
+      "slug": "inference_integrating_vector_symbolic",
+      "title": "Inference: Integrating Vector Symbolic",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced ML Framework Research Directions.pdf",
+      "topic": "math_theory",
+      "slug": "the_contemporary_landscape_of_artificial_intelligence_cognitive_modeling_and_rep",
+      "title": "The contemporary landscape of artificial intelligence, cognitive modeling, and r",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced ML Framework Research.pdf",
+      "topic": "hdc_vsa",
+      "slug": "introduction_to_the_convergence_of_non-standard",
+      "title": "Introduction to the Convergence of Non-Standard",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced Math for Cognitive Architecture.pdf",
+      "topic": "neuroscience",
+      "slug": "introduction_to_the_unified_cognitive_substrate",
+      "title": "Introduction to the Unified Cognitive Substrate",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced Mathematical and Coding Concepts.pdf",
+      "topic": "math_theory",
+      "slug": "formalizing_variance_causal_validation",
+      "title": "Formalizing Variance, Causal Validation,",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced Memory Architectures Research Outline.pdf",
+      "topic": "math_theory",
+      "slug": "advanced_computational_architectures",
+      "title": "Advanced Computational Architectures",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advanced VSA_HDC Inference Framework (1).pdf",
+      "topic": "hdc_vsa",
+      "slug": "introduction_and_theoretical_context",
+      "title": "Introduction and Theoretical Context",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advancing AI Through Self-Improvement.pdf",
+      "topic": "hdc_vsa",
+      "slug": "the_convergence_of_vector_symbolism_and_variational",
+      "title": "The Convergence of Vector Symbolism and Variational",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advancing Cognitive Agents_ Reasoning Innovations.pdf",
+      "topic": "hdc_vsa",
+      "slug": "introduction_the_threshold_of_actual_reasoning",
+      "title": "Introduction: The Threshold of Actual Reasoning",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Advancing Cognitive Agents_ Reasoning.pdf",
+      "topic": "hdc_vsa",
+      "slug": "geometry_and_sophisticated_inference",
+      "title": "Geometry, and Sophisticated Inference",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "AraGraph_ Deep Tech Analysis & Strategy.pdf",
+      "topic": "hdc_vsa",
+      "slug": "the_enterprise_artificial_intelligence_ecosystem_has_entered_a_highly_critical_p",
+      "title": "The enterprise artificial intelligence ecosystem has entered a highly critical p",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "AraGraph_ Deep Tech Analysis.pdf",
+      "topic": "math_theory",
+      "slug": "the_enterprise_artificial_intelligence_landscape_is_currently_dominated_by_a_par",
+      "title": "The enterprise artificial intelligence landscape is currently dominated by a par",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "AraGraph_Patent_A_Complete.pdf",
+      "topic": "math_theory",
+      "slug": "knowledge_graph_inference_with_topological_error_diagnosis",
+      "title": "Knowledge Graph Inference with Topological Error Diagnosis,",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "AraGraph_Patent_B_Complete.pdf",
+      "topic": "math_theory",
+      "slug": "system_and_method_for_multi-modal_temporally-aware",
+      "title": "System and Method for Multi-Modal, Temporally-Aware,",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "AraGraph_Provisional_Patent_Application.pdf",
+      "topic": "math_theory",
+      "slug": "autonomous_ontology_evolution_and_hierarchical_error_diagnosis",
+      "title": "Autonomous Ontology Evolution, and Hierarchical Error Diagnosis",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "AraGraph_Provisional_Patent_v2.pdf",
+      "topic": "hdc_vsa",
+      "slug": "system_and_method_for_thermodynamically_reversible_knowledge_graph",
+      "title": "System and Method for Thermodynamically Reversible Knowledge Graph",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Assessing Whether Rhetorical and Writing-System Concepts Will Advance ARAS.pdf",
+      "topic": "rl",
+      "slug": "communication_onboarding_adoption_decision_traceability_and_evaluation_rigor_eve",
+      "title": "communication, onboarding/adoption, decision traceability, and evaluation rigor\u2014",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Bio-Math Integration for AI.pdf",
+      "topic": "neuroscience",
+      "slug": "introduction_the_convergent_paradigm_of_biological",
+      "title": "Introduction: The Convergent Paradigm of Biological",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Biologically Aligned Speech Architecture (1).pdf",
+      "topic": "neuroscience",
+      "slug": "auditory-motor_loop_integrating_grid",
+      "title": "Auditory-Motor Loop: Integrating Grid",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Biologically Aligned Speech Architecture (2).pdf",
+      "topic": "math_theory",
+      "slug": "the_structural_evolution_of_autonomous_synthetic_agents_has_reached_a_critical_i",
+      "title": "The structural evolution of autonomous synthetic agents has reached a critical i",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Bird Call Representation in Hypervectors.pdf",
+      "topic": "hdc_vsa",
+      "slug": "1._introduction_to_high-dimensional_bioacoustic",
+      "title": "1. Introduction to High-Dimensional Bioacoustic",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Bottlenecks in the HV\u2192Speech Pipeline.pdf",
+      "topic": "audio_speech",
+      "slug": "the_core_issue_seems_to_be_missing_linguistic_structure_rather_than_sheer_capaci",
+      "title": "The core issue seems to be missing linguistic structure rather than sheer capaci",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Brain's Future Planning Toroid Architecture.pdf",
+      "topic": "neuroscience",
+      "slug": "architecture_of_prospective_cognition",
+      "title": "Architecture of Prospective Cognition:",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Brain's Future Planning Toroid Model.pdf",
+      "topic": "neuroscience",
+      "slug": "architectures_of_prospective_cognition",
+      "title": "Architectures of Prospective Cognition:",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Building the Next Breakthrough System.pdf",
+      "topic": "hdc_vsa",
+      "slug": "the_strategic_mandate_disentangling_breakthroughs",
+      "title": "The Strategic Mandate: Disentangling Breakthroughs",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "CNN-Based_Bird_Sound_Detection_A_Comparative_Perfo (1).pdf",
+      "topic": "audio_speech",
+      "slug": "issn_3021-940x_print_doi_https_doi.org_10.3126_injet.v2i2.78615",
+      "title": "ISSN: 3021-940X (Print) DOI: https://doi.org/10.3126/injet.v2i2.78615",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Coding Trajectories vs. Kinematics.pdf",
+      "topic": "hdc_vsa",
+      "slug": "continuous_cognitive_state_evolution",
+      "title": "Continuous Cognitive State Evolution",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Cognitive Architecture Ara_ Five Problems.pdf",
+      "topic": "hdc_vsa",
+      "slug": "architecture_mathematical_foundations",
+      "title": "Architecture: Mathematical Foundations",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Cognitive Architecture Findings Analysis.pdf",
+      "topic": "math_theory",
+      "slug": "constraints_in_the_cognitive_manifold_a",
+      "title": "Constraints in the Cognitive Manifold: A",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Cognitive Architecture Integration Problems.pdf",
+      "topic": "neuroscience",
+      "slug": "solutions_for_dual_prediction_temporal",
+      "title": "Solutions for Dual Prediction, Temporal",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Cognitive Architecture Neuroscience Research.pdf",
+      "topic": "neuroscience",
+      "slug": "sheaves_kuramoto_synchronization_and_topological_error_triage_represents_a_profo",
+      "title": "sheaves, Kuramoto synchronization, and topological error triage represents a pro",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Cognitive Architecture Research Request.pdf",
+      "topic": "neuroscience",
+      "slug": "finding_contemporary_cognitive_neuroscience_relies_heavily_on_the_mapping_of_lar",
+      "title": "Finding: Contemporary cognitive neuroscience relies heavily on the mapping of la",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Cognitive Architecture_ GWT, Active Inference, Geometry (1).pdf",
+      "topic": "neuroscience",
+      "slug": "introduction_to_the_adelic_workspace_paradigm",
+      "title": "Introduction to the Adelic Workspace Paradigm",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Coupled Oscillators and Toroidal Phase Embeddings in Fluid Dynamics.pdf",
+      "topic": "math_theory",
+      "slug": "we_examined_five_proposed_proofs_of_navier-stokes_regularity_via_analogies_to_os",
+      "title": "We examined five proposed \u201cproofs\u201d of Navier-Stokes regularity via analogies to ",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Criticality, Holography, and Predictive Oscillatory Cortices.pdf",
+      "topic": "neuroscience",
+      "slug": "a_deep_mathematical_phenomena_b_statistical_physical_phase_transitions_and_c_del",
+      "title": "(a) deep mathematical phenomena, (b) statistical/physical phase transitions, and",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Deep Research Synthesis_ How to Fix the Cortex Without a Redesign.pdf",
+      "topic": "neuroscience",
+      "slug": "cortex_is_acting_like_a_deterministic_map_with_hard_partitions_so_it_is_stable_b",
+      "title": "cortex is acting like a deterministic map with hard partitions\u2014so it is stable, ",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Designing State-of-the-Art Reasoning Systems.pdf",
+      "topic": "hdc_vsa",
+      "slug": "geometry_and_quantum_symmetries_for",
+      "title": "Geometry, and Quantum Symmetries for",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Developing Actual Human-Like Reasoning_ An Integration of Vector Symbolic Architectures, Active Inference, and Vector Logic (1).pdf",
+      "topic": "hdc_vsa",
+      "slug": "1._the_epistemological_crisis_of_imitation-based",
+      "title": "1. The Epistemological Crisis of Imitation-Based",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Digital Cortex_ Continuous Dynamical Field.pdf",
+      "topic": "neuroscience",
+      "slug": "the_contemporary_landscape_of_artificial_intelligence_is_characterized_by_a_shif",
+      "title": "The contemporary landscape of artificial intelligence is characterized by a shif",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Dual System_ Constraint and Generative Spaces.pdf",
+      "topic": "math_theory",
+      "slug": "the_architecture_of_complex_physical_computational_and_cognitive_systems_is_incr",
+      "title": "The architecture of complex physical, computational, and cognitive systems is in",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Dual Systems_ Constraints and Generation.pdf",
+      "topic": "nlp",
+      "slug": "introduction_to_the_fundamental_duality_of_complex",
+      "title": "Introduction to the Fundamental Duality of Complex",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Enhancing LLM Math Performance.pdf",
+      "topic": "ml_general",
+      "slug": "the_deployment_of_large_language_models_in_rigorous_mathematical_domains_require",
+      "title": "The deployment of large language models in rigorous mathematical domains require",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Executive Summary.pdf",
+      "topic": "hdc_vsa",
+      "slug": "for_each_we_provide_1_a_concise_answer_2_a_detailed_explanation_with_evidence_3_",
+      "title": "For each, we provide: (1) a concise answer, (2) a detailed explanation with evid",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Give me a formal research paper style writeup.pdf",
+      "topic": "neuromorphic",
+      "slug": "this_paper_proposes_a_cortical_control_architecture_for_an_artificial_system_ara",
+      "title": "This paper proposes a cortical control architecture for an artificial system, AR",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Hanif_temple_0225E_15557.pdf",
+      "topic": "other",
+      "slug": "a_comprehensive_framework_for_stroke_trajectory",
+      "title": "A COMPREHENSIVE FRAMEWORK FOR STROKE TRAJECTORY",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "INTERSPEECH_2012_Meyer_et_al.pdf",
+      "topic": "audio_speech",
+      "slug": "hooking_up_spectro-temporal_filters_with_auditory-inspired_representations_for",
+      "title": "Hooking up spectro-temporal filters with auditory-inspired representations for",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Integrating Cognitive Primitives for ARC-AGI-3.pdf",
+      "topic": "hdc_vsa",
+      "slug": "the_realization_of_autonomous_interactive_reasoning_in_environments_that_offer_z",
+      "title": "The realization of autonomous, interactive reasoning in environments that offer ",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Integrating Fringe and Established Theories.pdf",
+      "topic": "neuroscience",
+      "slug": "introduction_to_the_unified_cognitive_architecture",
+      "title": "Introduction to the Unified Cognitive Architecture",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Interdisciplinary Proofs_ Biology, Physics, Math.pdf",
+      "topic": "other",
+      "slug": "theorems_at_the_intersection_of_physics",
+      "title": "Theorems at the Intersection of Physics,",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Kaggle Churn Prediction Competition Plan.pdf",
+      "topic": "synth_data",
+      "slug": "the_strategic_landscape_of_customer_churn",
+      "title": "The Strategic Landscape of Customer Churn",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Kondo Lattices, Dirac Cones, HDC Research.pdf",
+      "topic": "hdc_vsa",
+      "slug": "introduction_to_the_post-von_neumann_computational",
+      "title": "Introduction to the Post-Von Neumann Computational",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Kurrent_Font_Help_Wiki.pdf",
+      "topic": "htr",
+      "slug": "a_a_b_b_c_c_d_d",
+      "title": "A a \u00c4 \u00e4 B b C c D d",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "LLM Knowledge Debridement Framework.pdf",
+      "topic": "ml_general",
+      "slug": "topological_knowledge_debridement_in",
+      "title": "Topological Knowledge Debridement in",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Math Analogies to Millennium Problems.pdf",
+      "topic": "math_theory",
+      "slug": "the_trajectory_of_modern_theoretical_mathematics_has_long_been_defined_by_isolat",
+      "title": "The trajectory of modern theoretical mathematics has long been defined by isolat",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Math-Physics Proofs for AI Advancement.pdf",
+      "topic": "math_theory",
+      "slug": "i._critique_of_current_ai_and_the_call_for_formal",
+      "title": "I. Critique of Current AI and the Call for Formal",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Millennium Problems as Mathematical Landscape.pdf",
+      "topic": "math_theory",
+      "slug": "introduction_to_the_unified_mathematical_architecture",
+      "title": "Introduction to the Unified Mathematical Architecture",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Navier-Stokes Regularity Proofs Analysis.pdf",
+      "topic": "math_theory",
+      "slug": "the_existence_and_global_smoothness_of_solutions_to_the_three-dimensional_incomp",
+      "title": "The existence and global smoothness of solutions to the three-dimensional incomp",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Neuroscience_ From Concept to Articulation.pdf",
+      "topic": "hdc_vsa",
+      "slug": "selects_lemmas_morphemes_and_finally_phonological_forms_syllables_from_a_mental_",
+      "title": "selects lemmas, morphemes and finally phonological forms (syllables) from a \u201cmen",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Novel Speech Synthesis from Hypervectors.pdf",
+      "topic": "hdc_vsa",
+      "slug": "the_trajectory_of_computational_linguistics_and_generative_acoustics_has_reached",
+      "title": "The trajectory of computational linguistics and generative acoustics has reached",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Predicting Irrigation Need _ Kaggle.pdf",
+      "topic": "other",
+      "slug": "kaggle_playground_prediction_competition_6",
+      "title": "KAGGLE \u00b7 PLAYGROUND PREDICTION COMPETITION \u00b7 6",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Primitive Emergence_ A Formal Framework.pdf",
+      "topic": "hdc_vsa",
+      "slug": "1._introduction_the_epistemology_of_primitive",
+      "title": "1. Introduction: The Epistemology of Primitive",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Proto-Speech_ From States to Intelligibility.pdf",
+      "topic": "hdc_vsa",
+      "slug": "comprehensive_analysis_of_sequential",
+      "title": "Comprehensive Analysis of Sequential",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Quantum Matter for Advanced Reasoning.pdf",
+      "topic": "hdc_vsa",
+      "slug": "introduction_to_topological_neuromorphic_computing",
+      "title": "Introduction to Topological Neuromorphic Computing",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Reality Fusion Architecture Components.pdf",
+      "topic": "hdc_vsa",
+      "slug": "unified_framework_for_reality_fusion",
+      "title": "Unified Framework for Reality Fusion,",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "SJT-8-1-197-204 (1).pdf",
+      "topic": "ml_general",
+      "slug": "scientific_journal_of_technology_volume_8_issue_1_2026",
+      "title": "Scientific Journal of Technology\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Sophisticated Inference_ Belief Bundles and DPEFE.pdf",
+      "topic": "neuromorphic",
+      "slug": "introduction_to_the_paradigmatic_shift_in_autonomous",
+      "title": "Introduction to the Paradigmatic Shift in Autonomous",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Speech Generation via Hyperdimensional Vectors.pdf",
+      "topic": "hdc_vsa",
+      "slug": "theoretical_foundations_and_architectural_context",
+      "title": "Theoretical Foundations and Architectural Context",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Speech Synthesis Breakthrough_ TDA, Reservoirs, HDC.pdf",
+      "topic": "audio_speech",
+      "slug": "the_contemporary_landscape_of_speech_synthesis_is_characterized_by_a_reliance_on",
+      "title": "The contemporary landscape of speech synthesis is characterized by a reliance on",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "TDA, Reservoirs, and HDC Speech Synthesis.pdf",
+      "topic": "hdc_vsa",
+      "slug": "dynamics_and_hyperdimensional_vector",
+      "title": "Dynamics, and Hyperdimensional Vector",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Testing Unified Field Equations of Intelligence.pdf",
+      "topic": "math_theory",
+      "slug": "self-organizing_intelligence_a",
+      "title": "Self-Organizing Intelligence: A",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Topological Computing and Advanced Reasoning.pdf",
+      "topic": "hdc_vsa",
+      "slug": "introduction_the_physical_imperative_for_new",
+      "title": "Introduction: The Physical Imperative for New",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Topological LLM Knowledge Debridement.pdf",
+      "topic": "ml_general",
+      "slug": "1._introduction_the_epistemic_crisis_of_factual",
+      "title": "1. Introduction: The Epistemic Crisis of Factual",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Topology Encoding for UI Classification.pdf",
+      "topic": "hdc_vsa",
+      "slug": "the_integration_of_algebraic_topology_and_high-dimensional_representation_theory",
+      "title": "The integration of algebraic topology and high-dimensional representation theory",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Toroidal Cognitive Architecture Refinement.pdf",
+      "topic": "math_theory",
+      "slug": "foundational_transition_characterized_by_a_move_away_from_symbolic_rule-based_co",
+      "title": "foundational transition, characterized by a move away from symbolic, rule-based ",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Toroidal Dynamics and Cognitive States.pdf",
+      "topic": "math_theory",
+      "slug": "the_transition_in_cognitive_science_from_a_purely_symbolic_paradigm_toward_a_dyn",
+      "title": "The transition in cognitive science from a purely symbolic paradigm toward a dyn",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Toroidal Phase Coupling in Cognitive Hypervector Spaces.pdf",
+      "topic": "hdc_vsa",
+      "slug": "literature._we_found_no_direct_matches_for_this_specific_architecture._however_r",
+      "title": "literature. We found no direct matches for this specific architecture. However, ",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Tropical Planner for Cognitive Safety.pdf",
+      "topic": "neuromorphic",
+      "slug": "introduction_to_the_non-euclidean_cognitive",
+      "title": "Introduction to the Non-Euclidean Cognitive",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Turbulence, Beal Conjecture, and Chimera.pdf",
+      "topic": "math_theory",
+      "slug": "the_convergence_of_analytic_number_theory_and_high-reynolds-number_fluid_dynamic",
+      "title": "The convergence of analytic number theory and high-Reynolds-number fluid dynamic",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Unifying AI With Physics and Biology.pdf",
+      "topic": "neuromorphic",
+      "slug": "the_computational_bottleneck_in_autonomous",
+      "title": "The Computational Bottleneck in Autonomous",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Untitled document (1).pdf",
+      "topic": "math_theory",
+      "slug": "this_work_presents_a_novel_mathematical_framework_for_cognition_deriving_seven_u",
+      "title": "This work presents a novel mathematical framework for cognition, deriving seven ",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Untitled document (3).pdf",
+      "topic": "hdc_vsa",
+      "slug": "state_space_science_theology_you_gain_specialization_but_you_also_create_the_pro",
+      "title": "state space, science, theology\u2014you gain specialization, but you also create the ",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Untitled document (4).pdf",
+      "topic": "other",
+      "slug": "alright_croft_now_we_re_at_the_largest_scale_of_the_whole_stack_concept_civiliza",
+      "title": "Alright Croft\u2014now we\u2019re at the largest scale of the whole stack: concept civiliz",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "Untitled document.pdf",
+      "topic": "hdc_vsa",
+      "slug": "actions_through_a_planner_verifier_loop_that_treats_graph_diffs_not_model_vibes_",
+      "title": "actions through a planner\u2013verifier loop that treats graph diffs\u2014not model vibes\u2014",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "VSA HDC Architecture for Active Inference (1).pdf",
+      "topic": "hdc_vsa",
+      "slug": "computing_and_sophisticated_active",
+      "title": "Computing and Sophisticated Active",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "VSA HDC Reasoning System Design.pdf",
+      "topic": "hdc_vsa",
+      "slug": "minkowski-weyl_geometric_duality_and",
+      "title": "Minkowski-Weyl Geometric Duality, and",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "VSA HDC Sophisticated Inference Implementation.pdf",
+      "topic": "neuromorphic",
+      "slug": "sophisticated_active_inference_within",
+      "title": "Sophisticated Active Inference within",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "aragraph_mathematical_framework.pdf",
+      "topic": "math_theory",
+      "slug": "algebraic_knowledge_graph_inference_in_ultrametric_space",
+      "title": "Algebraic Knowledge Graph Inference in Ultrametric Space",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "b5fe6dfc3ca9c8fe7394fa22cf617d334af2.pdf",
+      "topic": "htr",
+      "slug": "manuscripts_in_the_21st_century_possibilities",
+      "title": "Manuscripts in the 21st Century: Possibilities,",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "basil ganglia research.pdf",
+      "topic": "hdc_vsa",
+      "slug": "croft_this_is_strong._conceptually_strong._structurally_strong._the_bg_mapping_i",
+      "title": "Croft \u2014 this is strong. Conceptually strong. Structurally strong. The BG mapping",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "i need a high level extensive innovative research.pdf",
+      "topic": "neuroscience",
+      "slug": "d_10_240_geminiproposes_this_we_use_16_384which_is_strictly_better_for_quasi_ort",
+      "title": "- D=10,240\u2014Geminiproposes this;we use 16,384which is strictly better for quasi\ufffeo",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "nj2d-l6pz (1).pdf",
+      "topic": "other",
+      "slug": "received_15_august_2025_revised_12_november_2025_accepted_12_january_2026_publis",
+      "title": "(Received 15 August 2025; revised 12 November 2025; accepted 12 January 2026; pu",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "paper8.pdf",
+      "topic": "htr",
+      "slug": "evaluating_the_effectiveness_of_attention-gated-cnn_bgru_models_for_historical_m",
+      "title": "Evaluating the Effectiveness of Attention-Gated-CNN\ufffeBGRU Models for Historical M",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "research how i make ara talk as a functional od mu.pdf",
+      "topic": "hdc_vsa",
+      "slug": "here_s_a_research_blueprint_for_making_araspeak_as_a_fullyhypervector_native_mul",
+      "title": "Here\u2019s a research blueprint for making ARAspeak as a fullyhypervector\u2011native mul",
+      "arxiv_id": ""
+    }
+  ]
+}
