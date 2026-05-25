@@ -1,0 +1,149 @@
+[2026-05-25T18:20:33Z] fetching remote...
+[2026-05-25T18:20:34Z] running PDF processor...
+Found 143 PDFs in /home/croft/Downloads
+[  1/143] KEEP (manual): .pdf → ml_general/published_as_a_conference_paper_at_iclr_2026.md
+[  2/143] KEEP (manual): 10 The Predictive Oscillatory Cortex with CCO cont.pdf → math_theory/14_h_t_1_normalize_tanh_alpha_h_t_v_t_1_position_on_hypersphere.md
+[  3/143] KEEP (manual): 14010_Toward_a_Sheaf_Theoretic.pdf → ml_general/14010_toward_a_sheaf_theoretic.md
+[  4/143] KEEP (manual): 1503.02531v1.pdf → deployment/1503.02531.md
+[  5/143] KEEP (manual): 1909.02548v1.pdf → other/1909.02548.md
+[  6/143] KEEP (manual): 2005.00247v3.pdf → ml_general/2005.00247.md
+[  7/143] KEEP (manual): 2008.02217v3.pdf → ml_general/2008.02217.md
+[  8/143] KEEP (manual): 2022.findings-naacl.48.pdf → nlp/findings_of_the_association_for_computational_linguistics_naacl_2022_pages_633_-.md
+[  9/143] KEEP (manual): 2025.07.09.663724.full.pdf → ocr/extraction_of_printed_specimen_labels.md
+[ 10/143] KEEP (manual): 2025_DGMM-Spectrogram_denoising_by_filtering_max-trees.pdf → audio_speech/for_the_deposit_and_dissemination_of_scientific_re_search_documents_whether_they.md
+[ 11/143] KEEP (manual): 2206.00606v3.pdf → math_theory/2206.00606.md
+[ 12/143] KEEP (manual): 2305.14280v2.pdf → nlp/2305.14280.md
+[ 13/143] KEEP (manual): 2402.04214v1.pdf → other/2402.04214.md
+[ 14/143] KEEP (manual): 2406.11251v2.pdf → ocr/2406.11251.md
+[ 15/143] KEEP (manual): 2407.21788v1.pdf → ml_general/2407.21788.md
+[ 16/143] KEEP (manual): 2409.05699v1.pdf → htr/2409.05699.md
+[ 17/143] KEEP (manual): 2410.12628v1.pdf → vision/2410.12628.md
+[ 18/143] KEEP (manual): 2502.08417v1.pdf → htr/2502.08417.md
+[ 19/143] KEEP (manual): 2502.20040v1.pdf → audio_speech/2502.20040.md
+[ 20/143] KEEP (manual): 2504.01757v3.pdf → deployment/2504.01757.md
+[ 21/143] KEEP (manual): 2504.13825v1.pdf → deployment/2504.13825.md
+[ 22/143] KEEP (manual): 2504.13941v1.pdf → ml_general/2504.13941.md
+[ 23/143] KEEP (manual): 2505.00949v5.pdf → rl/2505.00949.md
+[ 24/143] KEEP (manual): 2505.20513v1.pdf → htr/2505.20513.md
+[ 25/143] KEEP (manual): 2507.04886v4.pdf → ml_general/2507.04886.md
+[ 26/143] KEEP (manual): 2507.14185v1.pdf → vision/2507.14185.md
+[ 27/143] KEEP (manual): 2510.09580v2.pdf → ml_general/2510.09580.md
+[ 28/143] KEEP (manual): 2605.10845v1.pdf → nlp/2605.10845.md
+[ 29/143] KEEP (manual): AI Theorems Research Paper Outline.pdf → math_theory/i._introduction_the_epistemological_boundaries_of.md
+[ 30/143] KEEP (manual): AIMO3_ AI Math Olympiad Strategy (1).pdf → hdc_vsa/mathematical_reasoning_integrating.md
+[ 31/143] KEEP (manual): AIMO3_ AI Math Olympiad Strategy.pdf → hdc_vsa/mathematical_reasoning_integrating.md
+[ 32/143] KEEP (manual): ARC Solver Development Roadmap.pdf → hdc_vsa/intelligence_advancing_the_arc_solver.md
+[ 33/143] KEEP (manual): ARC Task Refinement and Limitations.pdf → ml_general/the_theoretical_foundations_of_fluid_intelligence_and.md
+[ 34/143] KEEP (manual): Adelic Workspace for Conscious Thought (1).pdf → math_theory/unifying_parallel_processing_and_active.md
+[ 35/143] KEEP (manual): Adelic Workspace for Conscious Thought (2).pdf → math_theory/unifying_parallel_processing_and_active.md
+[ 36/143] KEEP (manual): Adelic Workspace for Conscious Thought (3).pdf → neuroscience/introduction_to_the_unified_architecture.md
+[ 37/143] KEEP (manual): Adelic Workspace for Conscious Thought.pdf → neuroscience/introduction_to_the_unified_architecture.md
+[ 38/143] KEEP (manual): Advanced AI for Computer Navigation.pdf → ml_general/the_transition_of_artificial_intelligence_from_conversational_large_language_mod.md
+[ 39/143] KEEP (manual): Advanced HDC System Innovations.pdf → math_theory/inference_integrating_vector_symbolic.md
+[ 40/143] KEEP (manual): Advanced ML Framework Research Directions.pdf → math_theory/the_contemporary_landscape_of_artificial_intelligence_cognitive_modeling_and_rep.md
+[ 41/143] KEEP (manual): Advanced ML Framework Research.pdf → hdc_vsa/introduction_to_the_convergence_of_non-standard.md
+[ 42/143] KEEP (manual): Advanced Math for Cognitive Architecture.pdf → neuroscience/introduction_to_the_unified_cognitive_substrate.md
+[ 43/143] KEEP (manual): Advanced Mathematical and Coding Concepts.pdf → math_theory/formalizing_variance_causal_validation.md
+[ 44/143] KEEP (manual): Advanced Memory Architectures Research Outline.pdf → math_theory/advanced_computational_architectures.md
+[ 45/143] KEEP (manual): Advanced VSA_HDC Inference Framework (1).pdf → hdc_vsa/introduction_and_theoretical_context.md
+[ 46/143] KEEP (manual): Advanced VSA_HDC Inference Framework.pdf → hdc_vsa/introduction_and_theoretical_context.md
+[ 47/143] KEEP (manual): Advancing AI Through Self-Improvement.pdf → hdc_vsa/the_convergence_of_vector_symbolism_and_variational.md
+[ 48/143] KEEP (manual): Advancing Cognitive Agents_ Reasoning Innovations.pdf → hdc_vsa/introduction_the_threshold_of_actual_reasoning.md
+[ 49/143] KEEP (manual): Advancing Cognitive Agents_ Reasoning.pdf → hdc_vsa/geometry_and_sophisticated_inference.md
+[ 50/143] KEEP (manual): AraGraph_ Deep Tech Analysis & Strategy.pdf → hdc_vsa/the_enterprise_artificial_intelligence_ecosystem_has_entered_a_highly_critical_p.md
+[ 51/143] KEEP (manual): AraGraph_ Deep Tech Analysis.pdf → math_theory/the_enterprise_artificial_intelligence_landscape_is_currently_dominated_by_a_par.md
+[ 52/143] KEEP (manual): AraGraph_Patent_A_Complete.pdf → math_theory/knowledge_graph_inference_with_topological_error_diagnosis.md
+[ 53/143] KEEP (manual): AraGraph_Patent_A_Engine.pdf → math_theory/knowledge_graph_inference_with_topological_error_diagnosis.md
+[ 54/143] KEEP (manual): AraGraph_Patent_B_Complete.pdf → math_theory/system_and_method_for_multi-modal_temporally-aware.md
+[ 55/143] KEEP (manual): AraGraph_Patent_B_Platform.pdf → math_theory/system_and_method_for_multi-modal_temporally-aware.md
+[ 56/143] KEEP (manual): AraGraph_Provisional_Patent_Application.pdf → math_theory/autonomous_ontology_evolution_and_hierarchical_error_diagnosis.md
+[ 57/143] KEEP (manual): AraGraph_Provisional_Patent_v2.pdf → hdc_vsa/system_and_method_for_thermodynamically_reversible_knowledge_graph.md
+[ 58/143] KEEP (manual): Assessing Whether Rhetorical and Writing-System Concepts Will Advance ARAS.pdf → rl/communication_onboarding_adoption_decision_traceability_and_evaluation_rigor_eve.md
+[ 59/143] KEEP (manual): Bio-Math Integration for AI.pdf → neuroscience/introduction_the_convergent_paradigm_of_biological.md
+[ 60/143] KEEP (manual): Biologically Aligned Speech Architecture (1).pdf → neuroscience/auditory-motor_loop_integrating_grid.md
+[ 61/143] KEEP (manual): Biologically Aligned Speech Architecture (2).pdf → math_theory/the_structural_evolution_of_autonomous_synthetic_agents_has_reached_a_critical_i.md
+[ 62/143] KEEP (manual): Biologically Aligned Speech Architecture.pdf → neuroscience/auditory-motor_loop_integrating_grid.md
+[ 63/143] KEEP (manual): Bird Call Representation in Hypervectors.pdf → hdc_vsa/1._introduction_to_high-dimensional_bioacoustic.md
+[ 64/143] KEEP (manual): Bottlenecks in the HV→Speech Pipeline.pdf → audio_speech/the_core_issue_seems_to_be_missing_linguistic_structure_rather_than_sheer_capaci.md
+[ 65/143] KEEP (manual): Brain's Future Planning Toroid Architecture.pdf → neuroscience/architecture_of_prospective_cognition.md
+[ 66/143] KEEP (manual): Brain's Future Planning Toroid Model.pdf → neuroscience/architectures_of_prospective_cognition.md
+[ 67/143] KEEP (manual): Building the Next Breakthrough System.pdf → hdc_vsa/the_strategic_mandate_disentangling_breakthroughs.md
+[ 68/143] KEEP (manual): CNN-Based_Bird_Sound_Detection_A_Comparative_Perfo (1).pdf → audio_speech/issn_3021-940x_print_doi_https_doi.org_10.3126_injet.v2i2.78615.md
+[ 69/143] KEEP (manual): CNN-Based_Bird_Sound_Detection_A_Comparative_Perfo.pdf → audio_speech/issn_3021-940x_print_doi_https_doi.org_10.3126_injet.v2i2.78615.md
+[ 70/143] KEEP (manual): Coding Trajectories vs. Kinematics.pdf → hdc_vsa/continuous_cognitive_state_evolution.md
+[ 71/143] KEEP (manual): Cognitive Architecture Ara_ Five Problems.pdf → hdc_vsa/architecture_mathematical_foundations.md
+[ 72/143] KEEP (manual): Cognitive Architecture Findings Analysis.pdf → math_theory/constraints_in_the_cognitive_manifold_a.md
+[ 73/143] KEEP (manual): Cognitive Architecture Integration Problems.pdf → neuroscience/solutions_for_dual_prediction_temporal.md
+[ 74/143] KEEP (manual): Cognitive Architecture Neuroscience Research.pdf → neuroscience/sheaves_kuramoto_synchronization_and_topological_error_triage_represents_a_profo.md
+[ 75/143] KEEP (manual): Cognitive Architecture Research Request.pdf → neuroscience/finding_contemporary_cognitive_neuroscience_relies_heavily_on_the_mapping_of_lar.md
+[ 76/143] KEEP (manual): Cognitive Architecture_ GWT, Active Inference, Geometry (1).pdf → neuroscience/introduction_to_the_adelic_workspace_paradigm.md
+[ 77/143] KEEP (manual): Cognitive Architecture_ GWT, Active Inference, Geometry.pdf → neuroscience/introduction_to_the_adelic_workspace_paradigm.md
+[ 78/143] KEEP (manual): Coupled Oscillators and Toroidal Phase Embeddings in Fluid Dynamics.pdf → math_theory/we_examined_five_proposed_proofs_of_navier-stokes_regularity_via_analogies_to_os.md
+[ 79/143] KEEP (manual): Criticality, Holography, and Predictive Oscillatory Cortices.pdf → neuroscience/a_deep_mathematical_phenomena_b_statistical_physical_phase_transitions_and_c_del.md
+[ 80/143] KEEP (manual): Deep Research Synthesis_ How to Fix the Cortex Without a Redesign.pdf → neuroscience/cortex_is_acting_like_a_deterministic_map_with_hard_partitions_so_it_is_stable_b.md
+[ 81/143] KEEP (manual): Designing State-of-the-Art Reasoning Systems.pdf → hdc_vsa/geometry_and_quantum_symmetries_for.md
+[ 82/143] KEEP (manual): Developing Actual Human-Like Reasoning_ An Integration of Vector Symbolic Architectures, Active Inference, and Vector Logic (1).pdf → hdc_vsa/1._the_epistemological_crisis_of_imitation-based.md
+[ 83/143] KEEP (manual): Developing Actual Human-Like Reasoning_ An Integration of Vector Symbolic Architectures, Active Inference, and Vector Logic.pdf → hdc_vsa/1._the_epistemological_crisis_of_imitation-based.md
+[ 84/143] KEEP (manual): Digital Cortex_ Continuous Dynamical Field.pdf → neuroscience/the_contemporary_landscape_of_artificial_intelligence_is_characterized_by_a_shif.md
+[ 85/143] KEEP (manual): Dual System_ Constraint and Generative Spaces.pdf → math_theory/the_architecture_of_complex_physical_computational_and_cognitive_systems_is_incr.md
+[ 86/143] KEEP (manual): Dual Systems_ Constraints and Generation.pdf → nlp/introduction_to_the_fundamental_duality_of_complex.md
+[ 87/143] KEEP (manual): Enhancing LLM Math Performance.pdf → ml_general/the_deployment_of_large_language_models_in_rigorous_mathematical_domains_require.md
+[ 88/143] KEEP (manual): Executive Summary.pdf → hdc_vsa/for_each_we_provide_1_a_concise_answer_2_a_detailed_explanation_with_evidence_3_.md
+[ 89/143] KEEP (manual): Give me a formal research paper style writeup.pdf → neuromorphic/this_paper_proposes_a_cortical_control_architecture_for_an_artificial_system_ara.md
+[ 90/143] KEEP (manual): Hanif_temple_0225E_15557.pdf → other/a_comprehensive_framework_for_stroke_trajectory.md
+[ 91/143] KEEP (manual): INTERSPEECH_2012_Meyer_et_al.pdf → audio_speech/hooking_up_spectro-temporal_filters_with_auditory-inspired_representations_for.md
+[ 92/143] KEEP (manual): Integrating Cognitive Primitives for ARC-AGI-3.pdf → hdc_vsa/the_realization_of_autonomous_interactive_reasoning_in_environments_that_offer_z.md
+[ 93/143] KEEP (manual): Integrating Fringe and Established Theories.pdf → neuroscience/introduction_to_the_unified_cognitive_architecture.md
+[ 94/143] KEEP (manual): Interdisciplinary Proofs_ Biology, Physics, Math.pdf → other/theorems_at_the_intersection_of_physics.md
+[ 95/143] KEEP (manual): Kaggle Churn Prediction Competition Plan.pdf → synth_data/the_strategic_landscape_of_customer_churn.md
+[ 96/143] KEEP (manual): Kondo Lattices, Dirac Cones, HDC Research.pdf → hdc_vsa/introduction_to_the_post-von_neumann_computational.md
+[ 97/143] KEEP (manual): Kondo Lattices, Dirac Cones, VSA_HDC.pdf → ml_general/published_as_a_conference_paper_at_iclr_2026.md
+[ 98/143] KEEP (manual): Kurrent_Font_Help_Wiki.pdf → htr/a_a_b_b_c_c_d_d.md
+[ 99/143] KEEP (manual): LLM Knowledge Debridement Framework.pdf → ml_general/topological_knowledge_debridement_in.md
+[100/143] KEEP (manual): Math Analogies to Millennium Problems.pdf → math_theory/the_trajectory_of_modern_theoretical_mathematics_has_long_been_defined_by_isolat.md
+[101/143] KEEP (manual): Math-Physics Proofs for AI Advancement.pdf → math_theory/i._critique_of_current_ai_and_the_call_for_formal.md
+[102/143] KEEP (manual): Millennium Problems as Mathematical Landscape.pdf → math_theory/introduction_to_the_unified_mathematical_architecture.md
+[103/143] KEEP (manual): Navier-Stokes Regularity Proofs Analysis.pdf → math_theory/the_existence_and_global_smoothness_of_solutions_to_the_three-dimensional_incomp.md
+[104/143] KEEP (manual): Neuroscience_ From Concept to Articulation.pdf → hdc_vsa/selects_lemmas_morphemes_and_finally_phonological_forms_syllables_from_a_mental_.md
+[105/143] KEEP (manual): Novel Speech Synthesis from Hypervectors.pdf → hdc_vsa/the_trajectory_of_computational_linguistics_and_generative_acoustics_has_reached.md
+[106/143] KEEP (manual): Predicting Irrigation Need _ Kaggle.pdf → other/kaggle_playground_prediction_competition_6.md
+[107/143] KEEP (manual): Primitive Emergence_ A Formal Framework.pdf → hdc_vsa/1._introduction_the_epistemology_of_primitive.md
+[108/143] KEEP (manual): Proto-Speech_ From States to Intelligibility.pdf → hdc_vsa/comprehensive_analysis_of_sequential.md
+[109/143] KEEP (manual): Quantum Matter for Advanced Reasoning.pdf → hdc_vsa/introduction_to_topological_neuromorphic_computing.md
+[110/143] KEEP (manual): Reality Fusion Architecture Components.pdf → hdc_vsa/unified_framework_for_reality_fusion.md
+[111/143] KEEP (manual): SJT-8-1-197-204 (1).pdf → ml_general/scientific_journal_of_technology_volume_8_issue_1_2026.md
+[112/143] KEEP (manual): SJT-8-1-197-204.pdf → ml_general/scientific_journal_of_technology_volume_8_issue_1_2026.md
+[113/143] KEEP (manual): Sophisticated Inference_ Belief Bundles and DPEFE.pdf → neuromorphic/introduction_to_the_paradigmatic_shift_in_autonomous.md
+[114/143] KEEP (manual): Speech Generation via Hyperdimensional Vectors.pdf → hdc_vsa/theoretical_foundations_and_architectural_context.md
+[115/143] KEEP (manual): Speech Synthesis Breakthrough_ TDA, Reservoirs, HDC.pdf → audio_speech/the_contemporary_landscape_of_speech_synthesis_is_characterized_by_a_reliance_on.md
+[116/143] KEEP (manual): TDA, Reservoirs, and HDC Speech Synthesis.pdf → hdc_vsa/dynamics_and_hyperdimensional_vector.md
+[117/143] KEEP (manual): Testing Unified Field Equations of Intelligence.pdf → math_theory/self-organizing_intelligence_a.md
+[118/143] KEEP (manual): Topological Computing and Advanced Reasoning.pdf → hdc_vsa/introduction_the_physical_imperative_for_new.md
+[119/143] KEEP (manual): Topological LLM Knowledge Debridement.pdf → ml_general/1._introduction_the_epistemic_crisis_of_factual.md
+[120/143] KEEP (manual): Topology Encoding for UI Classification.pdf → hdc_vsa/the_integration_of_algebraic_topology_and_high-dimensional_representation_theory.md
+[121/143] KEEP (manual): Toroidal Cognitive Architecture Refinement.pdf → math_theory/foundational_transition_characterized_by_a_move_away_from_symbolic_rule-based_co.md
+[122/143] KEEP (manual): Toroidal Dynamics and Cognitive States.pdf → math_theory/the_transition_in_cognitive_science_from_a_purely_symbolic_paradigm_toward_a_dyn.md
+[123/143] KEEP (manual): Toroidal Phase Coupling in Cognitive Hypervector Spaces.pdf → hdc_vsa/literature._we_found_no_direct_matches_for_this_specific_architecture._however_r.md
+[124/143] KEEP (manual): Tropical Planner for Cognitive Safety.pdf → neuromorphic/introduction_to_the_non-euclidean_cognitive.md
+[125/143] KEEP (manual): Turbulence, Beal Conjecture, and Chimera.pdf → math_theory/the_convergence_of_analytic_number_theory_and_high-reynolds-number_fluid_dynamic.md
+[126/143] KEEP (manual): Unifying AI With Physics and Biology.pdf → neuromorphic/the_computational_bottleneck_in_autonomous.md
+[127/143] KEEP (manual): Untitled document (1).pdf → math_theory/this_work_presents_a_novel_mathematical_framework_for_cognition_deriving_seven_u.md
+[128/143] KEEP (manual): Untitled document (3).pdf → hdc_vsa/state_space_science_theology_you_gain_specialization_but_you_also_create_the_pro.md
+[129/143] KEEP (manual): Untitled document (4).pdf → other/alright_croft_now_we_re_at_the_largest_scale_of_the_whole_stack_concept_civiliza.md
+[130/143] KEEP (manual): Untitled document.pdf → hdc_vsa/actions_through_a_planner_verifier_loop_that_treats_graph_diffs_not_model_vibes_.md
+[131/143] KEEP (manual): VSA HDC Active Inference Reasoning.pdf → hdc_vsa/1._the_epistemological_crisis_of_imitation-based.md
+[132/143] KEEP (manual): VSA HDC Architecture for Active Inference (1).pdf → hdc_vsa/computing_and_sophisticated_active.md
+[133/143] KEEP (manual): VSA HDC Architecture for Active Inference.pdf → hdc_vsa/computing_and_sophisticated_active.md
+[134/143] KEEP (manual): VSA HDC Reasoning System Design.pdf → hdc_vsa/minkowski-weyl_geometric_duality_and.md
+[135/143] KEEP (manual): VSA HDC Sophisticated Inference Implementation.pdf → neuromorphic/sophisticated_active_inference_within.md
+[136/143] KEEP (manual): aragraph_mathematical_framework.pdf → math_theory/algebraic_knowledge_graph_inference_in_ultrametric_space.md
+[137/143] KEEP (manual): b5fe6dfc3ca9c8fe7394fa22cf617d334af2.pdf → htr/manuscripts_in_the_21st_century_possibilities.md
+[138/143] KEEP (manual): basil ganglia research.pdf → hdc_vsa/croft_this_is_strong._conceptually_strong._structurally_strong._the_bg_mapping_i.md
+[139/143] KEEP (manual): i need a high level extensive innovative research.pdf → neuroscience/d_10_240_geminiproposes_this_we_use_16_384which_is_strictly_better_for_quasi_ort.md
+[140/143] KEEP (manual): nj2d-l6pz (1).pdf → other/received_15_august_2025_revised_12_november_2025_accepted_12_january_2026_publis.md
+[141/143] KEEP (manual): nj2d-l6pz.pdf → other/received_15_august_2025_revised_12_november_2025_accepted_12_january_2026_publis.md
+[142/143] KEEP (manual): paper8.pdf → htr/evaluating_the_effectiveness_of_attention-gated-cnn_bgru_models_for_historical_m.md
+[143/143] KEEP (manual): research how i make ara talk as a functional od mu.pdf → hdc_vsa/here_s_a_research_blueprint_for_making_araspeak_as_a_fullyhypervector_native_mul.md
+
+DONE.  Written: 0.  Kept (manual edits): 143.
+By topic:
