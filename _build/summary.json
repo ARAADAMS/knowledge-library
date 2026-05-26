@@ -1,6 +1,31 @@
 {
-  "by_topic": {},
-  "total_written": 0,
+  "by_topic": {
+    "ml_general": 1,
+    "htr": 2
+  },
+  "total_written": 3,
   "total_kept_manual": 143,
-  "rows": []
+  "rows": [
+    {
+      "pdf": "2306.01708v2.pdf",
+      "topic": "ml_general",
+      "slug": "2306.01708",
+      "title": "1 University of North Carolina at Chapel Hill 2",
+      "arxiv_id": "2306.01708"
+    },
+    {
+      "pdf": "2604.09713v1.pdf",
+      "topic": "htr",
+      "slug": "2604.09713",
+      "title": "Carlos Garrido-Munoz1 Aniello Panariello2 Silvia Cascianelli2 Angelo Porrello2",
+      "arxiv_id": "2604.09713"
+    },
+    {
+      "pdf": "comp.pdf",
+      "topic": "htr",
+      "slug": "for_the_deposit_and_dissemination_of_scientific_re_search_documents_whether_they",
+      "title": "for the deposit and dissemination of scientific re\ufffesearch documents, whether the",
+      "arxiv_id": ""
+    }
+  ]
 }
