@@ -1,31 +1,54 @@
 {
   "by_topic": {
-    "ml_general": 1,
-    "htr": 2
+    "ml_general": 2,
+    "rl": 2,
+    "other": 1,
+    "synth_data": 1
   },
-  "total_written": 3,
-  "total_kept_manual": 143,
+  "total_written": 6,
+  "total_kept_manual": 146,
   "rows": [
     {
-      "pdf": "2306.01708v2.pdf",
+      "pdf": "2503.22199v1.pdf",
       "topic": "ml_general",
-      "slug": "2306.01708",
-      "title": "1 University of North Carolina at Chapel Hill 2",
-      "arxiv_id": "2306.01708"
+      "slug": "2503.22199",
+      "title": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY 1",
+      "arxiv_id": "2503.22199"
     },
     {
-      "pdf": "2604.09713v1.pdf",
-      "topic": "htr",
-      "slug": "2604.09713",
-      "title": "Carlos Garrido-Munoz1 Aniello Panariello2 Silvia Cascianelli2 Angelo Porrello2",
-      "arxiv_id": "2604.09713"
+      "pdf": "2505.11099v2.pdf",
+      "topic": "rl",
+      "slug": "2505.11099",
+      "title": "HyMamba: Mamba with Hybrid Geometry-Feature Coupling for E",
+      "arxiv_id": "2505.11099"
     },
     {
-      "pdf": "comp.pdf",
-      "topic": "htr",
-      "slug": "for_the_deposit_and_dissemination_of_scientific_re_search_documents_whether_they",
-      "title": "for the deposit and dissemination of scientific re\ufffesearch documents, whether the",
-      "arxiv_id": ""
+      "pdf": "2506.08596v1.pdf",
+      "topic": "ml_general",
+      "slug": "2506.08596",
+      "title": "Department of Electrical, Computer and Software Engineering",
+      "arxiv_id": "2506.08596"
+    },
+    {
+      "pdf": "2509.08265v1.pdf",
+      "topic": "other",
+      "slug": "2509.08265",
+      "title": "Hyperspectral Mamba for Hyperspectral Object",
+      "arxiv_id": "2509.08265"
+    },
+    {
+      "pdf": "2605.17286v1.pdf",
+      "topic": "synth_data",
+      "slug": "2605.17286",
+      "title": "Ground-Based Hyperspectral Vision",
+      "arxiv_id": "2605.17286"
+    },
+    {
+      "pdf": "2605.20569v1.pdf",
+      "topic": "rl",
+      "slug": "2605.20569",
+      "title": "Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu,",
+      "arxiv_id": "2605.20569"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Ml General
 
-15 entries.
+17 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
@@ -8,7 +8,9 @@
 - [Hubert Ramsauer∗ Bernhard Schäfl∗ Johannes Lehner∗ Philipp Seidl∗](2008.02217.md)
 - [1 University of North Carolina at Chapel Hill 2](2306.01708.md)
 - [Mihir Chauhan†† Abhishek Satbhai§ Mohammad Abuzar Hashemi¶ Mir Basheer Ali¶¶](2407.21788.md)
+- [IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY 1](2503.22199.md)
 - [NEMOTRON-CROSSTHINK : Scaling Self-Learning beyond Math Reasoning](2504.13941.md)
+- [Department of Electrical, Computer and Software Engineering](2506.08596.md)
 - [Emergent Semantics Beyond Token Embeddings: Trans￾former LMs with Frozen Visual Unicode Representations](2507.04886.md)
 - [Department of Electrical and Computer Engineering, Princeton University](2510.09580.md)
 - [Published as a conference paper at ICLR 2026](published_as_a_conference_paper_at_iclr_2026.md)
