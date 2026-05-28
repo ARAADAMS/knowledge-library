@@ -1,10 +1,14 @@
 # Hdc Vsa
 
-35 entries.
+41 entries.
 
 - [1. Introduction: The Epistemology of Primitive](1._introduction_the_epistemology_of_primitive.md)
 - [1. Introduction to High-Dimensional Bioacoustic](1._introduction_to_high-dimensional_bioacoustic.md)
 - [1. The Epistemological Crisis of Imitation-Based](1._the_epistemological_crisis_of_imitation-based.md)
+- [© 2023 IJRAR September 2023, Volume 10, Issue 3 www.ijrar.org (E-ISSN 2348-1269, P- ISSN 2349-5138)](2023_ijrar_september_2023_volume_10_issue_3_www.ijrar.org_e-issn_2348-1269_p-_is.md)
+- [Gluing Neural Networks Symbolically Through](2205.15534.md)
+- [Towards Efficient Hyperdimensional Computing](2311.17801.md)
+- [qFHRR: Rethinking Fourier Holographic Reduced Representations through](2604.25939.md)
 - [actions through a planner–verifier loop that treats graph diffs—not model vibes—as truth. Below](actions_through_a_planner_verifier_loop_that_treats_graph_diffs_not_model_vibes_.md)
 - [Architecture: Mathematical Foundations](architecture_mathematical_foundations.md)
 - [Comprehensive Analysis of Sequential](comprehensive_analysis_of_sequential.md)
@@ -15,6 +19,7 @@
 - [For each, we provide: (1) a concise answer, (2) a detailed explanation with evidence, (3) key citations from](for_each_we_provide_1_a_concise_answer_2_a_detailed_explanation_with_evidence_3_.md)
 - [Geometry, and Quantum Symmetries for](geometry_and_quantum_symmetries_for.md)
 - [Geometry, and Sophisticated Inference](geometry_and_sophisticated_inference.md)
+- [Gluing Neural Networks Symbolically Through](gluing_neural_networks_symbolically_through.md)
 - [Here’s a research blueprint for making ARAspeak as a fullyhypervector‑native multimodal](here_s_a_research_blueprint_for_making_araspeak_as_a_fullyhypervector_native_mul.md)
 - [Intelligence: Advancing the ARC Solver](intelligence_advancing_the_arc_solver.md)
 - [Introduction and Theoretical Context](introduction_and_theoretical_context.md)
@@ -26,6 +31,7 @@
 - [literature. We found no direct matches for this specific architecture. However, related concepts appear in](literature._we_found_no_direct_matches_for_this_specific_architecture._however_r.md)
 - [Mathematical Reasoning: Integrating](mathematical_reasoning_integrating.md)
 - [Minkowski-Weyl Geometric Duality, and](minkowski-weyl_geometric_duality_and.md)
+- [Resonator Networks, 1: An Efficient Solution for Factoring](resonator_networks_1_an_efficient_solution_for_factoring.md)
 - [selects lemmas, morphemes and finally phonological forms (syllables) from a “mental syllabary” . These](selects_lemmas_morphemes_and_finally_phonological_forms_syllables_from_a_mental_.md)
 - [state space, science, theology—you gain specialization, but you also create the problem you’re](state_space_science_theology_you_gain_specialization_but_you_also_create_the_pro.md)
 - [System and Method for Thermodynamically Reversible Knowledge Graph](system_and_method_for_thermodynamically_reversible_knowledge_graph.md)
