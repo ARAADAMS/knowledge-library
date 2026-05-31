@@ -1,6 +1,6 @@
 # Ml General
 
-18 entries.
+20 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
@@ -14,6 +14,8 @@
 - [Emergent Semantics Beyond Token Embeddings: Trans￾former LMs with Frozen Visual Unicode Representations](2507.04886.md)
 - [Department of Electrical and Computer Engineering, Princeton University](2510.09580.md)
 - [S-PATH-RAG: SEMANTIC-AWARE SHORTEST-PATH RETRIEVAL](2603.23512.md)
+- [Computer Science and Engineering, University of Michigan, Ann Arbor, MI](2604.07894.md)
+- [Changlian Ma1,2∗ Zizheng Huang1,4∗ Xiangyu Zeng1,2 Yi Wang2](changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2.md)
 - [Published as a conference paper at ICLR 2026](published_as_a_conference_paper_at_iclr_2026.md)
 - [Scientific Journal of Technology																																																																																																																									Volume 8 Issue 1, 2026](scientific_journal_of_technology_volume_8_issue_1_2026.md)
 - [The deployment of large language models in rigorous mathematical domains requires](the_deployment_of_large_language_models_in_rigorous_mathematical_domains_require.md)
