@@ -1,6 +1,6 @@
 # Ml General
 
-20 entries.
+21 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
@@ -13,6 +13,7 @@
 - [Department of Electrical, Computer and Software Engineering](2506.08596.md)
 - [Emergent Semantics Beyond Token Embeddings: Trans￾former LMs with Frozen Visual Unicode Representations](2507.04886.md)
 - [Department of Electrical and Computer Engineering, Princeton University](2510.09580.md)
+- [Sub-Band Spectral Matching with Localized Score Aggregation for](2603.13749.md)
 - [S-PATH-RAG: SEMANTIC-AWARE SHORTEST-PATH RETRIEVAL](2603.23512.md)
 - [Computer Science and Engineering, University of Michigan, Ann Arbor, MI](2604.07894.md)
 - [Changlian Ma1,2∗ Zizheng Huang1,4∗ Xiangyu Zeng1,2 Yi Wang2](changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2.md)

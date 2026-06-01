@@ -670,3 +670,15 @@ By topic:
   ml_general         2
   other              2
   math_theory        1
+[2026-05-31T04:01:25Z] committing 10 changed files
+[2026-05-31T04:01:25Z] pushing to origin/main
+[2026-05-31T04:01:27Z] push successful
+[2026-06-01T04:02:40Z] fetching remote...
+[2026-06-01T04:02:41Z] running PDF processor...
+Found 2 PDFs in /home/croft/Downloads
+[  2/2] 2603.14917v1.pdf → audio_speech/2603.14917.md
+
+DONE.  Written: 2.  Kept (manual edits): 0.
+By topic:
+  ml_general         1
+  audio_speech       1

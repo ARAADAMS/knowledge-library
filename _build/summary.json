@@ -1,46 +1,24 @@
 {
   "by_topic": {
-    "ml_general": 2,
-    "other": 2,
-    "math_theory": 1
+    "ml_general": 1,
+    "audio_speech": 1
   },
-  "total_written": 5,
+  "total_written": 2,
   "total_kept_manual": 0,
   "rows": [
     {
-      "pdf": "14745_Balancing_the_Experts_Un.pdf",
+      "pdf": "2603.13749v1.pdf",
       "topic": "ml_general",
-      "slug": "changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2",
-      "title": "Changlian Ma1,2\u2217 Zizheng Huang1,4\u2217 Xiangyu Zeng1,2 Yi Wang2",
-      "arxiv_id": ""
+      "slug": "2603.13749",
+      "title": "Sub-Band Spectral Matching with Localized Score Aggregation for",
+      "arxiv_id": "2603.13749"
     },
     {
-      "pdf": "2020_11_sol_aurora_forum.pdf",
-      "topic": "other",
-      "slug": "sol4ve_running_deep_neural_networks_on_the",
-      "title": "SOL4VE: Running Deep Neural Networks on the",
-      "arxiv_id": ""
-    },
-    {
-      "pdf": "2511.11092v1.pdf",
-      "topic": "math_theory",
-      "slug": "2511.11092",
-      "title": "Proceedings Track 1\u201314, 2025 Symmetry and Geometry in Neural Representations",
-      "arxiv_id": "2511.11092"
-    },
-    {
-      "pdf": "2604.07894v1.pdf",
-      "topic": "ml_general",
-      "slug": "2604.07894",
-      "title": "Computer Science and Engineering, University of Michigan, Ann Arbor, MI",
-      "arxiv_id": "2604.07894"
-    },
-    {
-      "pdf": "InstallationGuide_E.pdf",
-      "topic": "other",
-      "slug": "the_information_disclosed_in_this_document_is_the_property_of_nec_corporation_ne",
-      "title": "The information disclosed in this document is the property of NEC Corporation (N",
-      "arxiv_id": ""
+      "pdf": "2603.14917v1.pdf",
+      "topic": "audio_speech",
+      "slug": "2603.14917",
+      "title": "F.; Lastname, F. Spectrogram features",
+      "arxiv_id": "2603.14917"
     }
   ]
 }
