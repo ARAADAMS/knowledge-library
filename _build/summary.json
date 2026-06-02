@@ -1,24 +1,6 @@
 {
-  "by_topic": {
-    "ml_general": 1,
-    "audio_speech": 1
-  },
-  "total_written": 2,
+  "by_topic": {},
+  "total_written": 0,
   "total_kept_manual": 0,
-  "rows": [
-    {
-      "pdf": "2603.13749v1.pdf",
-      "topic": "ml_general",
-      "slug": "2603.13749",
-      "title": "Sub-Band Spectral Matching with Localized Score Aggregation for",
-      "arxiv_id": "2603.13749"
-    },
-    {
-      "pdf": "2603.14917v1.pdf",
-      "topic": "audio_speech",
-      "slug": "2603.14917",
-      "title": "F.; Lastname, F. Spectrogram features",
-      "arxiv_id": "2603.14917"
-    }
-  ]
+  "rows": []
 }
