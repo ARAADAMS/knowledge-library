@@ -1,6 +1,16 @@
 {
-  "by_topic": {},
-  "total_written": 0,
+  "by_topic": {
+    "ocr": 1
+  },
+  "total_written": 1,
   "total_kept_manual": 0,
-  "rows": []
+  "rows": [
+    {
+      "pdf": "2404.12734v4.pdf",
+      "topic": "ocr",
+      "slug": "2404.12734",
+      "title": "1 Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China ",
+      "arxiv_id": "2404.12734"
+    }
+  ]
 }
