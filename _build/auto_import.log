@@ -837,3 +837,14 @@ Found 0 PDFs in /home/croft/Downloads
 
 DONE.  Written: 0.  Kept (manual edits): 0.
 By topic:
+[2026-06-18T04:06:37Z] committing 1 changed files
+[2026-06-18T04:06:37Z] pushing to origin/main
+[2026-06-18T04:06:38Z] push successful
+[2026-06-19T04:21:09Z] fetching remote...
+[2026-06-19T04:21:10Z] running PDF processor...
+Found 1 PDFs in /home/croft/Downloads
+[  1/1] 2505.12540v4.pdf → nlp/2505.12540.md
+
+DONE.  Written: 1.  Kept (manual edits): 0.
+By topic:
+  nlp                1

@@ -1,6 +1,16 @@
 {
-  "by_topic": {},
-  "total_written": 0,
+  "by_topic": {
+    "nlp": 1
+  },
+  "total_written": 1,
   "total_kept_manual": 0,
-  "rows": []
+  "rows": [
+    {
+      "pdf": "2505.12540v4.pdf",
+      "topic": "nlp",
+      "slug": "2505.12540",
+      "title": "Rishi Jha Collin Zhang Vitaly Shmatikov John X. Morris",
+      "arxiv_id": "2505.12540"
+    }
+  ]
 }
