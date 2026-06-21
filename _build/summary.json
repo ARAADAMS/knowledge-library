@@ -1,6 +1,31 @@
 {
-  "by_topic": {},
-  "total_written": 0,
+  "by_topic": {
+    "other": 2,
+    "deployment": 1
+  },
+  "total_written": 3,
   "total_kept_manual": 0,
-  "rows": []
+  "rows": [
+    {
+      "pdf": "CERN_01570_AI_Customer_Slide_Deck-V1_MMH.pdf",
+      "topic": "other",
+      "slug": "regarding_product_features_availability_functionality_or_compatibility_are_provi",
+      "title": "regarding product features, availability, functionality, or compatibility, are p",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "ML_Hardware_-_Micron.pdf",
+      "topic": "deployment",
+      "slug": "2017_micron_technology_inc._all_rights_reserved._information_products_and_or_spe",
+      "title": "\u00a92017 Micron Technology, Inc. All rights reserved. Information, products, and/or",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "qt9808732c.pdf",
+      "topic": "other",
+      "slug": "on_the_acceleration_of_database_primitives_on_fpgas",
+      "title": "On the Acceleration of Database Primitives on FPGAs",
+      "arxiv_id": ""
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Other
 
-11 entries.
+13 entries.
 
 - [CHAUHAN, SHAIKH ET AL.: EXPLANATION BASED HANDWRITING VERIFICATION 1](1909.02548.md)
 - [Vasco Cavina,1, 2, ∗ Ariane Soret,1, † Timur Aslyamov,1 Krzysztof Ptaszy´nski,1, 3 and Massimiliano Esposito1](2402.04214.md)
@@ -9,7 +9,9 @@
 - [Alright Croft—now we’re at the largest scale of the whole stack: concept civilizations.](alright_croft_now_we_re_at_the_largest_scale_of_the_whole_stack_concept_civiliza.md)
 - [Grid Cells are Responsible for Path Integration in](grid_cells_are_responsible_for_path_integration_in.md)
 - [KAGGLE · PLAYGROUND PREDICTION COMPETITION · 6](kaggle_playground_prediction_competition_6.md)
+- [On the Acceleration of Database Primitives on FPGAs](on_the_acceleration_of_database_primitives_on_fpgas.md)
 - [(Received 15 August 2025; revised 12 November 2025; accepted 12 January 2026; published 30 March 2026)](received_15_august_2025_revised_12_november_2025_accepted_12_january_2026_publis.md)
+- [regarding product features, availability, functionality, or compatibility, are provided for informational purposes only and do not modify](regarding_product_features_availability_functionality_or_compatibility_are_provi.md)
 - [SOL4VE: Running Deep Neural Networks on the](sol4ve_running_deep_neural_networks_on_the.md)
 - [The information disclosed in this document is the property of NEC Corporation (NEC)](the_information_disclosed_in_this_document_is_the_property_of_nec_corporation_ne.md)
 - [Theorems at the Intersection of Physics,](theorems_at_the_intersection_of_physics.md)
