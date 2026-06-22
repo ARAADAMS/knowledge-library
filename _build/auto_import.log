@@ -887,3 +887,20 @@ DONE.  Written: 3.  Kept (manual edits): 0.
 By topic:
   other              2
   deployment         1
+[2026-06-21T14:50:48Z] committing 7 changed files
+[2026-06-21T14:50:48Z] pushing to origin/main
+[2026-06-21T14:50:49Z] push successful
+[2026-06-22T04:11:16Z] fetching remote...
+[2026-06-22T04:11:16Z] running PDF processor...
+Found 15 PDFs in /home/croft/Downloads
+[  7/15] KEEP (manual): 2604.10841v1.pdf → security/2604.10841.md
+[ 10/15] KEEP (manual): CERN_01570_AI_Customer_Slide_Deck-V1_MMH.pdf → other/regarding_product_features_availability_functionality_or_compatibility_are_provi.md
+[ 13/15] KEEP (manual): ML_Hardware_-_Micron.pdf → deployment/2017_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md
+[ 14/15] KEEP (manual): qt9808732c.pdf → other/on_the_acceleration_of_database_primitives_on_fpgas.md
+[ 15/15] s41598-025-87574-8.pdf → ml_general/state_space_models_ssms_have_made_remarkable_strides_in_language_modeling_in_rec.md
+
+DONE.  Written: 11.  Kept (manual edits): 4.
+By topic:
+  ml_general         7
+  other              3
+  deployment         1

@@ -1,6 +1,6 @@
 # Ml General
 
-21 entries.
+28 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
@@ -8,17 +8,24 @@
 - [Hubert Ramsauer∗ Bernhard Schäfl∗ Johannes Lehner∗ Philipp Seidl∗](2008.02217.md)
 - [1 University of North Carolina at Chapel Hill 2](2306.01708.md)
 - [Mihir Chauhan†† Abhishek Satbhai§ Mohammad Abuzar Hashemi¶ Mir Basheer Ali¶¶](2407.21788.md)
+- [Alex Reneau Jerry Yao-Chieh Hu Zhongfang Zhuang Ting-Chun Liu Xiang He](2503.17353.md)
 - [IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY 1](2503.22199.md)
 - [NEMOTRON-CROSSTHINK : Scaling Self-Learning beyond Math Reasoning](2504.13941.md)
 - [Department of Electrical, Computer and Software Engineering](2506.08596.md)
 - [Emergent Semantics Beyond Token Embeddings: Trans￾former LMs with Frozen Visual Unicode Representations](2507.04886.md)
+- [Hybrid Architectures for Language Models:](2510.04800.md)
 - [Department of Electrical and Computer Engineering, Princeton University](2510.09580.md)
+- [STRUCTURED MULTIDIMENSIONAL REPRESENTATION LEARNING FOR LARGE](2603.05727.md)
+- [Revisiting Model Stitching In the Foundation Model Era](2603.12433.md)
 - [Sub-Band Spectral Matching with Localized Score Aggregation for](2603.13749.md)
 - [S-PATH-RAG: SEMANTIC-AWARE SHORTEST-PATH RETRIEVAL](2603.23512.md)
 - [Computer Science and Engineering, University of Michigan, Ann Arbor, MI](2604.07894.md)
+- [approach for consolidating the capabilities of mul￾tiple LLMs without retraining. However, exist￾ing merging techniques, largely based on linear](2606.03391.md)
+- [Zhaofeng Wuã Oliver Sieberlingã Shawn Tanè](2606.18246.md)
 - [Changlian Ma1,2∗ Zizheng Huang1,4∗ Xiangyu Zeng1,2 Yi Wang2](changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2.md)
 - [Published as a conference paper at ICLR 2026](published_as_a_conference_paper_at_iclr_2026.md)
 - [Scientific Journal of Technology																																																																																																																									Volume 8 Issue 1, 2026](scientific_journal_of_technology_volume_8_issue_1_2026.md)
+- [State Space Models (SSMs) have made remarkable strides in language modeling in recent years.](state_space_models_ssms_have_made_remarkable_strides_in_language_modeling_in_rec.md)
 - [The deployment of large language models in rigorous mathematical domains requires](the_deployment_of_large_language_models_in_rigorous_mathematical_domains_require.md)
 - [The Theoretical Foundations of Fluid Intelligence and](the_theoretical_foundations_of_fluid_intelligence_and.md)
 - [The transition of artificial intelligence from conversational large language models (LLMs) to](the_transition_of_artificial_intelligence_from_conversational_large_language_mod.md)
