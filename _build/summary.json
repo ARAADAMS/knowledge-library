@@ -1,88 +1,31 @@
 {
   "by_topic": {
-    "deployment": 1,
-    "ml_general": 7,
-    "other": 3
+    "ml_general": 1,
+    "math_theory": 2
   },
-  "total_written": 11,
-  "total_kept_manual": 4,
+  "total_written": 3,
+  "total_kept_manual": 2,
   "rows": [
     {
-      "pdf": "2409.20449v2.pdf",
-      "topic": "deployment",
-      "slug": "2409.20449",
-      "title": "Linear Projections of Teacher Embeddings for",
-      "arxiv_id": "2409.20449"
-    },
-    {
-      "pdf": "2503.17353v3.pdf",
+      "pdf": "2501.10573v1.pdf",
       "topic": "ml_general",
-      "slug": "2503.17353",
-      "title": "Alex Reneau Jerry Yao-Chieh Hu Zhongfang Zhuang Ting-Chun Liu Xiang He",
-      "arxiv_id": "2503.17353"
+      "slug": "2501.10573",
+      "title": "THE GEOMETRY OF TOKENS IN INTERNAL REPRESENTATIONS",
+      "arxiv_id": "2501.10573"
     },
     {
-      "pdf": "2510.04800v1.pdf",
-      "topic": "ml_general",
-      "slug": "2510.04800",
-      "title": "Hybrid Architectures for Language Models:",
-      "arxiv_id": "2510.04800"
+      "pdf": "2601.22010v1.pdf",
+      "topic": "math_theory",
+      "slug": "2601.22010",
+      "title": "Published as a conference paper at ICLR 2026",
+      "arxiv_id": "2601.22010"
     },
     {
-      "pdf": "2511.04805v1.pdf",
-      "topic": "other",
-      "slug": "2511.04805",
-      "title": "MIXTURE-OF-EXPERTS MODELS VIA SPARSE EXPERT",
-      "arxiv_id": "2511.04805"
-    },
-    {
-      "pdf": "2603.05727v1.pdf",
-      "topic": "ml_general",
-      "slug": "2603.05727",
-      "title": "STRUCTURED MULTIDIMENSIONAL REPRESENTATION LEARNING FOR LARGE",
-      "arxiv_id": "2603.05727"
-    },
-    {
-      "pdf": "2603.12433v1.pdf",
-      "topic": "ml_general",
-      "slug": "2603.12433",
-      "title": "Revisiting Model Stitching In the Foundation Model Era",
-      "arxiv_id": "2603.12433"
-    },
-    {
-      "pdf": "2606.03391v1.pdf",
-      "topic": "ml_general",
-      "slug": "2606.03391",
-      "title": "approach for consolidating the capabilities of mul\ufffetiple LLMs without retraining",
-      "arxiv_id": "2606.03391"
-    },
-    {
-      "pdf": "2606.18246v1.pdf",
-      "topic": "ml_general",
-      "slug": "2606.18246",
-      "title": "Zhaofeng Wu\u00e3 Oliver Sieberling\u00e3 Shawn Tan\u00e8",
-      "arxiv_id": "2606.18246"
-    },
-    {
-      "pdf": "CERN_3_9_2021_Micron_DLA.pdf",
-      "topic": "other",
-      "slug": "2020_micron_technology_inc._all_rights_reserved._information_products_and_or_spe",
-      "title": "\u00a92020 Micron Technology, Inc. All rights reserved. Information, products, and/or",
-      "arxiv_id": ""
-    },
-    {
-      "pdf": "Fast_inference_using_FPGAs_for_DUNE_data_reconstru.pdf",
-      "topic": "other",
-      "slug": "abstract._the_deep_underground_neutrino_experiment_dune_will_be_a",
-      "title": "Abstract. The Deep Underground Neutrino Experiment (DUNE) will be a",
-      "arxiv_id": ""
-    },
-    {
-      "pdf": "s41598-025-87574-8.pdf",
-      "topic": "ml_general",
-      "slug": "state_space_models_ssms_have_made_remarkable_strides_in_language_modeling_in_rec",
-      "title": "State Space Models (SSMs) have made remarkable strides in language modeling in r",
-      "arxiv_id": ""
+      "pdf": "2602.01695v1.pdf",
+      "topic": "math_theory",
+      "slug": "2602.01695",
+      "title": "Yadong Wang 1 2 Haodong Chen 1 2 Yu Tian 3 Chuanxing Geng 1 2 Dong Liang 1 2 Xia",
+      "arxiv_id": "2602.01695"
     }
   ]
 }
