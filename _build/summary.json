@@ -1,31 +1,6 @@
 {
-  "by_topic": {
-    "ml_general": 1,
-    "math_theory": 2
-  },
-  "total_written": 3,
+  "by_topic": {},
+  "total_written": 0,
   "total_kept_manual": 2,
-  "rows": [
-    {
-      "pdf": "2501.10573v1.pdf",
-      "topic": "ml_general",
-      "slug": "2501.10573",
-      "title": "THE GEOMETRY OF TOKENS IN INTERNAL REPRESENTATIONS",
-      "arxiv_id": "2501.10573"
-    },
-    {
-      "pdf": "2601.22010v1.pdf",
-      "topic": "math_theory",
-      "slug": "2601.22010",
-      "title": "Published as a conference paper at ICLR 2026",
-      "arxiv_id": "2601.22010"
-    },
-    {
-      "pdf": "2602.01695v1.pdf",
-      "topic": "math_theory",
-      "slug": "2602.01695",
-      "title": "Yadong Wang 1 2 Haodong Chen 1 2 Yu Tian 3 Chuanxing Geng 1 2 Dong Liang 1 2 Xia",
-      "arxiv_id": "2602.01695"
-    }
-  ]
+  "rows": []
 }
