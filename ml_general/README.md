@@ -1,6 +1,6 @@
 # Ml General
 
-29 entries.
+30 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
@@ -23,6 +23,7 @@
 - [Computer Science and Engineering, University of Michigan, Ann Arbor, MI](2604.07894.md)
 - [approach for consolidating the capabilities of mul￾tiple LLMs without retraining. However, exist￾ing merging techniques, largely based on linear](2606.03391.md)
 - [Zhaofeng Wuã Oliver Sieberlingã Shawn Tanè](2606.18246.md)
+- [Beyond Tokens: Dynamic Latent Reasoning via Semantic Residual Refinement](beyond_tokens_dynamic_latent_reasoning_via_semantic_residual_refinement.md)
 - [Changlian Ma1,2∗ Zizheng Huang1,4∗ Xiangyu Zeng1,2 Yi Wang2](changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2.md)
 - [Published as a conference paper at ICLR 2026](published_as_a_conference_paper_at_iclr_2026.md)
 - [Scientific Journal of Technology																																																																																																																									Volume 8 Issue 1, 2026](scientific_journal_of_technology_volume_8_issue_1_2026.md)

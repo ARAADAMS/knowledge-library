@@ -928,3 +928,21 @@ Found 2 PDFs in /home/croft/Downloads
 
 DONE.  Written: 0.  Kept (manual edits): 2.
 By topic:
+[2026-06-24T04:28:36Z] committing 2 changed files
+[2026-06-24T04:28:36Z] pushing to origin/main
+[2026-06-24T04:28:37Z] push successful
+[2026-06-25T04:12:03Z] fetching remote...
+[2026-06-25T04:12:04Z] running PDF processor...
+Found 11 PDFs in /home/croft/Downloads
+[  3/11] KEEP (manual): 11267-AAAI26.LvF-NLP.pdf → ml_general/beyond_tokens_dynamic_latent_reasoning_via_semantic_residual_refinement.md
+[  7/11] KEEP (manual): 2604.10841v1.pdf → security/2604.10841.md
+[ 10/11] KEEP (manual): ML_Hardware_-_Micron.pdf → deployment/2017_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md
+[ 11/11] tborck,+AAAI-XiaY.5688.pdf → nlp/the_thirty-third_aaai_conference_on_artificial_intelligence_aaai-19.md
+
+DONE.  Written: 8.  Kept (manual edits): 3.
+By topic:
+  math_theory        2
+  rl                 2
+  nlp                2
+  ml_general         1
+  other              1

@@ -1,14 +1,16 @@
 # Math Theory
 
-32 entries.
+34 entries.
 
 - [14 H_{t+1} = normalize(tanh(alpha * H_t + V_{t+1})) (position on hypersphere)](14_h_t_1_normalize_tanh_alpha_h_t_v_t_1_position_on_hypersphere.md)
 - [Null paths on a toroidal topological black hole in conformal Weyl gravity](1808.04298.md)
 - [Topological Deep Learning: Going Beyond Graph Data](2206.00606.md)
+- [Rethinking AI: From Functions to Functors](2510.17944.md)
 - [Proceedings Track 1–14, 2025 Symmetry and Geometry in Neural Representations](2511.11092.md)
 - [Deep Manifold Part 2: Neural Network](2512.06563.md)
 - [Published as a conference paper at ICLR 2026](2601.22010.md)
 - [Yadong Wang 1 2 Haodong Chen 1 2 Yu Tian 3 Chuanxing Geng 1 2 Dong Liang 1 2 Xiang Chen 1 2](2602.01695.md)
+- [Latent Predictive Learning for Dynamic Network](2606.08869.md)
 - [A Theoretical Study of Neural Network Expressive Power via](a_theoretical_study_of_neural_network_expressive_power_via.md)
 - [Advanced Computational Architectures](advanced_computational_architectures.md)
 - [Algebraic Knowledge Graph Inference in Ultrametric Space](algebraic_knowledge_graph_inference_in_ultrametric_space.md)
