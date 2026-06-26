@@ -946,3 +946,15 @@ By topic:
   nlp                2
   ml_general         1
   other              1
+[2026-06-25T04:12:04Z] committing 15 changed files
+[2026-06-25T04:12:04Z] pushing to origin/main
+[2026-06-25T04:12:06Z] push successful
+[2026-06-26T04:26:54Z] fetching remote...
+[2026-06-26T04:26:55Z] running PDF processor...
+Found 3 PDFs in /home/croft/Downloads
+[  1/3] KEEP (manual): 2505.12540v2.pdf → nlp/2505.12540.md
+[  2/3] KEEP (manual): 2604.10841v1.pdf → security/2604.10841.md
+[  3/3] KEEP (manual): ML_Hardware_-_Micron.pdf → deployment/2017_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md
+
+DONE.  Written: 0.  Kept (manual edits): 3.
+By topic:
