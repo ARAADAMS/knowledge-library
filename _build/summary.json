@@ -1,6 +1,82 @@
 {
-  "by_topic": {},
-  "total_written": 0,
-  "total_kept_manual": 3,
-  "rows": []
+  "by_topic": {
+    "ml_general": 4,
+    "math_theory": 4,
+    "other": 1,
+    "hdc_vsa": 1
+  },
+  "total_written": 10,
+  "total_kept_manual": 2,
+  "rows": [
+    {
+      "pdf": "2304.13061v2.pdf",
+      "topic": "ml_general",
+      "slug": "2304.13061",
+      "title": "an invertible, implicit and iterative MLP-Mixer",
+      "arxiv_id": "2304.13061"
+    },
+    {
+      "pdf": "2310.10322v3.pdf",
+      "topic": "ml_general",
+      "slug": "2310.10322",
+      "title": "National Engineering Research Center of Speech and Language Information Processi",
+      "arxiv_id": "2310.10322"
+    },
+    {
+      "pdf": "2505.23993v3.pdf",
+      "topic": "math_theory",
+      "slug": "2505.23993",
+      "title": "CELLULAR SHEAVES ON HIGHER-DIMENSIONAL STRUCTURES",
+      "arxiv_id": "2505.23993"
+    },
+    {
+      "pdf": "2603.08458v1.pdf",
+      "topic": "other",
+      "slug": "2603.08458",
+      "title": "The Transfer Tensor Method: an Analytical Study Case",
+      "arxiv_id": "2603.08458"
+    },
+    {
+      "pdf": "2604.07632v1.pdf",
+      "topic": "math_theory",
+      "slug": "2604.07632",
+      "title": "1UPAI, Faculty of Informatics and Information Technology, Slovak",
+      "arxiv_id": "2604.07632"
+    },
+    {
+      "pdf": "2605.04696v1.pdf",
+      "topic": "math_theory",
+      "slug": "2605.04696",
+      "title": "The computation is done by considering the filtration induced by the subgroup of",
+      "arxiv_id": "2605.04696"
+    },
+    {
+      "pdf": "2606.14243v1.pdf",
+      "topic": "ml_general",
+      "slug": "2606.14243",
+      "title": "Decoupled Mixture-of-Experts for Parametric Knowledge Injection",
+      "arxiv_id": "2606.14243"
+    },
+    {
+      "pdf": "2606.19529v1.pdf",
+      "topic": "math_theory",
+      "slug": "2606.19529",
+      "title": "The Sheaf Laplacian: A Topological Framework for Data Fusion",
+      "arxiv_id": "2606.19529"
+    },
+    {
+      "pdf": "2606.24948v1.pdf",
+      "topic": "hdc_vsa",
+      "slug": "2606.24948",
+      "title": "Independent Researcher , randhir2709vns@gmail.com",
+      "arxiv_id": "2606.24948"
+    },
+    {
+      "pdf": "ptaf193.pdf",
+      "topic": "ml_general",
+      "slug": "prog._theor._exp._phys._2026_023a01_32_pages",
+      "title": "Prog. Theor. Exp. Phys. 2026 023A01 (32 pages)",
+      "arxiv_id": ""
+    }
+  ]
 }

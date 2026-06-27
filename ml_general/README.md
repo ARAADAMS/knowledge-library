@@ -1,12 +1,14 @@
 # Ml General
 
-30 entries.
+34 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
 - [Non-Destructive Task Composition for Transfer Learning](2005.00247.md)
 - [Hubert Ramsauer∗ Bernhard Schäfl∗ Johannes Lehner∗ Philipp Seidl∗](2008.02217.md)
+- [an invertible, implicit and iterative MLP-Mixer](2304.13061.md)
 - [1 University of North Carolina at Chapel Hill 2](2306.01708.md)
+- [National Engineering Research Center of Speech and Language Information Processing](2310.10322.md)
 - [Mihir Chauhan†† Abhishek Satbhai§ Mohammad Abuzar Hashemi¶ Mir Basheer Ali¶¶](2407.21788.md)
 - [THE GEOMETRY OF TOKENS IN INTERNAL REPRESENTATIONS](2501.10573.md)
 - [Alex Reneau Jerry Yao-Chieh Hu Zhongfang Zhuang Ting-Chun Liu Xiang He](2503.17353.md)
@@ -22,9 +24,11 @@
 - [S-PATH-RAG: SEMANTIC-AWARE SHORTEST-PATH RETRIEVAL](2603.23512.md)
 - [Computer Science and Engineering, University of Michigan, Ann Arbor, MI](2604.07894.md)
 - [approach for consolidating the capabilities of mul￾tiple LLMs without retraining. However, exist￾ing merging techniques, largely based on linear](2606.03391.md)
+- [Decoupled Mixture-of-Experts for Parametric Knowledge Injection](2606.14243.md)
 - [Zhaofeng Wuã Oliver Sieberlingã Shawn Tanè](2606.18246.md)
 - [Beyond Tokens: Dynamic Latent Reasoning via Semantic Residual Refinement](beyond_tokens_dynamic_latent_reasoning_via_semantic_residual_refinement.md)
 - [Changlian Ma1,2∗ Zizheng Huang1,4∗ Xiangyu Zeng1,2 Yi Wang2](changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2.md)
+- [Prog. Theor. Exp. Phys. 2026 023A01 (32 pages)](prog._theor._exp._phys._2026_023a01_32_pages.md)
 - [Published as a conference paper at ICLR 2026](published_as_a_conference_paper_at_iclr_2026.md)
 - [Scientific Journal of Technology																																																																																																																									Volume 8 Issue 1, 2026](scientific_journal_of_technology_volume_8_issue_1_2026.md)
 - [State Space Models (SSMs) have made remarkable strides in language modeling in recent years.](state_space_models_ssms_have_made_remarkable_strides_in_language_modeling_in_rec.md)

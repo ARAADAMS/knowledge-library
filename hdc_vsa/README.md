@@ -1,6 +1,6 @@
 # Hdc Vsa
 
-41 entries.
+42 entries.
 
 - [1. Introduction: The Epistemology of Primitive](1._introduction_the_epistemology_of_primitive.md)
 - [1. Introduction to High-Dimensional Bioacoustic](1._introduction_to_high-dimensional_bioacoustic.md)
@@ -9,6 +9,7 @@
 - [Gluing Neural Networks Symbolically Through](2205.15534.md)
 - [Towards Efficient Hyperdimensional Computing](2311.17801.md)
 - [qFHRR: Rethinking Fourier Holographic Reduced Representations through](2604.25939.md)
+- [Independent Researcher , randhir2709vns@gmail.com](2606.24948.md)
 - [actions through a planner–verifier loop that treats graph diffs—not model vibes—as truth. Below](actions_through_a_planner_verifier_loop_that_treats_graph_diffs_not_model_vibes_.md)
 - [Architecture: Mathematical Foundations](architecture_mathematical_foundations.md)
 - [Comprehensive Analysis of Sequential](comprehensive_analysis_of_sequential.md)
