@@ -1,11 +1,12 @@
 # Rl
 
-9 entries.
+10 entries.
 
 - [FREQUENCY APPROXIMATION AND WAVE PROBLEMS ∗](1909.11759.md)
 - [Received 6 June 2022, accepted 20 June 2022, date of publication 29 June 2022, date of current version 11 July 2022.](2022.31869.md)
 - [models that deliver exceptional reasoning capabilities, inference efficiency, and an open license for](2505.00949.md)
 - [HyMamba: Mamba with Hybrid Geometry-Feature Coupling for E](2505.11099.md)
+- [Sangwon Jang∗,1 Taekyung Ki∗,1 Jaehyeong Jo1 Jaehong Yoon2 Soo Ye Kim3](2506.07177.md)
 - [Multimodal latent-space reasoning aims to re￾place explicit “thinking with images” by perform￾ing visual reasoning directly in a compact latent](2605.19342.md)
 - [Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu,](2605.20569.md)
 - [communication, onboarding/adoption, decision traceability, and evaluation rigor—even if ARAS’s](communication_onboarding_adoption_decision_traceability_and_evaluation_rigor_eve.md)
