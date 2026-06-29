@@ -1,16 +1,16 @@
 {
   "by_topic": {
-    "rl": 1
+    "other": 1
   },
   "total_written": 1,
   "total_kept_manual": 3,
   "rows": [
     {
-      "pdf": "2506.07177v1.pdf",
-      "topic": "rl",
-      "slug": "2506.07177",
-      "title": "Sangwon Jang\u2217,1 Taekyung Ki\u2217,1 Jaehyeong Jo1 Jaehong Yoon2 Soo Ye Kim3",
-      "arxiv_id": "2506.07177"
+      "pdf": "2606.26722v1.pdf",
+      "topic": "other",
+      "slug": "2606.26722",
+      "title": "Socratic agents for autonomous scientific discovery",
+      "arxiv_id": "2606.26722"
     }
   ]
 }

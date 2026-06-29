@@ -1,6 +1,6 @@
 # Other
 
-18 entries.
+19 entries.
 
 - [CHAUHAN, SHAIKH ET AL.: EXPLANATION BASED HANDWRITING VERIFICATION 1](1909.02548.md)
 - [©2020 Micron Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. All](2020_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md)
@@ -9,6 +9,7 @@
 - [MIXTURE-OF-EXPERTS MODELS VIA SPARSE EXPERT](2511.04805.md)
 - [Dorian Schiffer,1, 2, ∗ Robert Kindler,2, † Alexandra Bergmayr-Mann,1 Florian Kanitschar,1, 3](2601.07678.md)
 - [The Transfer Tensor Method: an Analytical Study Case](2603.08458.md)
+- [Socratic agents for autonomous scientific discovery](2606.26722.md)
 - [A COMPREHENSIVE FRAMEWORK FOR STROKE TRAJECTORY](a_comprehensive_framework_for_stroke_trajectory.md)
 - [Abstract. The Deep Underground Neutrino Experiment (DUNE) will be a](abstract._the_deep_underground_neutrino_experiment_dune_will_be_a.md)
 - [Alright Croft—now we’re at the largest scale of the whole stack: concept civilizations.](alright_croft_now_we_re_at_the_largest_scale_of_the_whole_stack_concept_civiliza.md)
