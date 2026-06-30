@@ -1,11 +1,12 @@
 # Ml General
 
-34 entries.
+37 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
 - [Non-Destructive Task Composition for Transfer Learning](2005.00247.md)
 - [Hubert Ramsauer∗ Bernhard Schäfl∗ Johannes Lehner∗ Philipp Seidl∗](2008.02217.md)
+- [Malcolm Reynolds† Roman Ring† Eliza Rutherford† Serkan Cabi Tengda Han](2204.14198.md)
 - [an invertible, implicit and iterative MLP-Mixer](2304.13061.md)
 - [1 University of North Carolina at Chapel Hill 2](2306.01708.md)
 - [National Engineering Research Center of Speech and Language Information Processing](2310.10322.md)
@@ -18,7 +19,9 @@
 - [Emergent Semantics Beyond Token Embeddings: Trans￾former LMs with Frozen Visual Unicode Representations](2507.04886.md)
 - [Hybrid Architectures for Language Models:](2510.04800.md)
 - [Department of Electrical and Computer Engineering, Princeton University](2510.09580.md)
+- [The Abstraction and Reasoning Corpus (ARC) is designed](2511.14761.md)
 - [STRUCTURED MULTIDIMENSIONAL REPRESENTATION LEARNING FOR LARGE](2603.05727.md)
+- [TeamHOI: Learning a Unified Policy for Cooperative Human-Object](2603.07988.md)
 - [Revisiting Model Stitching In the Foundation Model Era](2603.12433.md)
 - [Sub-Band Spectral Matching with Localized Score Aggregation for](2603.13749.md)
 - [S-PATH-RAG: SEMANTIC-AWARE SHORTEST-PATH RETRIEVAL](2603.23512.md)

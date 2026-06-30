@@ -1,16 +1,104 @@
 {
   "by_topic": {
-    "other": 1
+    "ml_general": 3,
+    "nlp": 2,
+    "math_theory": 4,
+    "other": 2,
+    "rl": 2
   },
-  "total_written": 1,
+  "total_written": 13,
   "total_kept_manual": 3,
   "rows": [
     {
-      "pdf": "2606.26722v1.pdf",
+      "pdf": "2204.14198v2.pdf",
+      "topic": "ml_general",
+      "slug": "2204.14198",
+      "title": "Malcolm Reynolds\u2020 Roman Ring\u2020 Eliza Rutherford\u2020 Serkan Cabi Tengda Han",
+      "arxiv_id": "2204.14198"
+    },
+    {
+      "pdf": "2505.00014v1.pdf",
+      "topic": "nlp",
+      "slug": "2505.00014",
+      "title": "TRIPLET LOSS: PROJECTING SEMANTICS ONTO SPHERES, TORI,",
+      "arxiv_id": "2505.00014"
+    },
+    {
+      "pdf": "2511.14761v1.pdf",
+      "topic": "ml_general",
+      "slug": "2511.14761",
+      "title": "The Abstraction and Reasoning Corpus (ARC) is designed",
+      "arxiv_id": "2511.14761"
+    },
+    {
+      "pdf": "2601.21207v2.pdf",
+      "topic": "math_theory",
+      "slug": "2601.21207",
+      "title": "A Sheaf-Theoretic and Topological Perspective on Complex Network Modeling",
+      "arxiv_id": "2601.21207"
+    },
+    {
+      "pdf": "2603.07988v1.pdf",
+      "topic": "ml_general",
+      "slug": "2603.07988",
+      "title": "TeamHOI: Learning a Unified Policy for Cooperative Human-Object",
+      "arxiv_id": "2603.07988"
+    },
+    {
+      "pdf": "2603.29611v1.pdf",
       "topic": "other",
-      "slug": "2606.26722",
-      "title": "Socratic agents for autonomous scientific discovery",
-      "arxiv_id": "2606.26722"
+      "slug": "2603.29611",
+      "title": "Institute for Condensed Matter Physics, Technical University of Darmstadt, Hochs",
+      "arxiv_id": "2603.29611"
+    },
+    {
+      "pdf": "2604.26308v1.pdf",
+      "topic": "math_theory",
+      "slug": "2604.26308",
+      "title": "close to the boundary of the modular space can be well approximated by the eigen",
+      "arxiv_id": "2604.26308"
+    },
+    {
+      "pdf": "2606.04227v2.pdf",
+      "topic": "math_theory",
+      "slug": "2606.04227",
+      "title": "O(1)-in-n Lazy Edit Processing under Bounded Local Geometry",
+      "arxiv_id": "2606.04227"
+    },
+    {
+      "pdf": "2606.26969v1.pdf",
+      "topic": "rl",
+      "slug": "2606.26969",
+      "title": "Munachiso Samuel Nwadike1,2",
+      "arxiv_id": "2606.26969"
+    },
+    {
+      "pdf": "9540_Compositional_ARC_Assessi.pdf",
+      "topic": "nlp",
+      "slug": "1mainlp_center_for_information_and_language_processing_lmu_munich_germany",
+      "title": "1MaiNLP, Center for Information and Language Processing, LMU Munich, Germany",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "New aspects of quantum topological data analysis_ Betti number estimation, and testing and tracking of homology and cohomology c.pdf",
+      "topic": "other",
+      "slug": "betti_number_estimation_and_testing_and_tracking_of_homology_and_cohomology_clas",
+      "title": "Betti number estimation, and testing and tracking of homology and cohomology cla",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "On the rank of hypergeometric sheaves on higher dimensional tori - Antonio Rojas-Leon.pdf",
+      "topic": "rl",
+      "slug": "abstract._we_prove_an_explicit_formula_for_the_generic_rank_of_hypergeomet_ric_p",
+      "title": "Abstract. We prove an explicit formula for the generic rank of hypergeomet\uffferic p",
+      "arxiv_id": ""
+    },
+    {
+      "pdf": "s00526-026-03382-6.pdf",
+      "topic": "math_theory",
+      "slug": "https_doi.org_10.1007_s00526-026-03382-6_calculus_of_variations",
+      "title": "https://doi.org/10.1007/s00526-026-03382-6 Calculus of Variations",
+      "arxiv_id": ""
     }
   ]
 }

@@ -1000,3 +1000,21 @@ Found 4 PDFs in /home/croft/Downloads
 DONE.  Written: 1.  Kept (manual edits): 3.
 By topic:
   other              1
+[2026-06-29T04:07:32Z] committing 4 changed files
+[2026-06-29T04:07:32Z] pushing to origin/main
+[2026-06-29T04:07:33Z] push successful
+[2026-06-30T04:11:57Z] fetching remote...
+[2026-06-30T04:11:58Z] running PDF processor...
+Found 16 PDFs in /home/croft/Downloads
+[  7/16] KEEP (manual): 2604.10841v1.pdf → security/2604.10841.md
+[ 10/16] KEEP (manual): 2606.14243v1.pdf → ml_general/2606.14243.md
+[ 13/16] KEEP (manual): ML_Hardware_-_Micron.pdf → deployment/2017_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md
+[ 16/16] s00526-026-03382-6.pdf → math_theory/https_doi.org_10.1007_s00526-026-03382-6_calculus_of_variations.md
+
+DONE.  Written: 13.  Kept (manual edits): 3.
+By topic:
+  math_theory        4
+  ml_general         3
+  nlp                2
+  other              2
+  rl                 2
