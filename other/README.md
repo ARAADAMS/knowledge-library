@@ -1,6 +1,6 @@
 # Other
 
-21 entries.
+22 entries.
 
 - [CHAUHAN, SHAIKH ET AL.: EXPLANATION BASED HANDWRITING VERIFICATION 1](1909.02548.md)
 - [©2020 Micron Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. All](2020_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md)
@@ -21,5 +21,6 @@
 - [(Received 15 August 2025; revised 12 November 2025; accepted 12 January 2026; published 30 March 2026)](received_15_august_2025_revised_12_november_2025_accepted_12_january_2026_publis.md)
 - [regarding product features, availability, functionality, or compatibility, are provided for informational purposes only and do not modify](regarding_product_features_availability_functionality_or_compatibility_are_provi.md)
 - [SOL4VE: Running Deep Neural Networks on the](sol4ve_running_deep_neural_networks_on_the.md)
+- [The evolution of autonomous software engineering has transitioned from programmatic](the_evolution_of_autonomous_software_engineering_has_transitioned_from_programma.md)
 - [The information disclosed in this document is the property of NEC Corporation (NEC)](the_information_disclosed_in_this_document_is_the_property_of_nec_corporation_ne.md)
 - [Theorems at the Intersection of Physics,](theorems_at_the_intersection_of_physics.md)

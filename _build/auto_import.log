@@ -1030,3 +1030,16 @@ Found 3 PDFs in /home/croft/Downloads
 
 DONE.  Written: 0.  Kept (manual edits): 3.
 By topic:
+[2026-06-30T21:16:27Z] committing 2 changed files
+[2026-06-30T21:16:27Z] pushing to origin/main
+[2026-06-30T21:16:28Z] push successful
+[2026-07-01T04:02:22Z] fetching remote...
+[2026-07-01T04:02:22Z] running PDF processor...
+Found 4 PDFs in /home/croft/Downloads
+[  1/4] KEEP (manual): 2604.10841v1.pdf → security/2604.10841.md
+[  2/4] KEEP (manual): 2606.14243v1.pdf → ml_general/2606.14243.md
+[  4/4] KEEP (manual): ML_Hardware_-_Micron.pdf → deployment/2017_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md
+
+DONE.  Written: 1.  Kept (manual edits): 3.
+By topic:
+  other              1
