@@ -1,16 +1,6 @@
 {
-  "by_topic": {
-    "other": 1
-  },
-  "total_written": 1,
+  "by_topic": {},
+  "total_written": 0,
   "total_kept_manual": 3,
-  "rows": [
-    {
-      "pdf": "Agentic Multi-LLM Coding Workflow.pdf",
-      "topic": "other",
-      "slug": "the_evolution_of_autonomous_software_engineering_has_transitioned_from_programma",
-      "title": "The evolution of autonomous software engineering has transitioned from programma",
-      "arxiv_id": ""
-    }
-  ]
+  "rows": []
 }
