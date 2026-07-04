@@ -1,6 +1,6 @@
 # Ml General
 
-37 entries.
+39 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
@@ -26,9 +26,11 @@
 - [Sub-Band Spectral Matching with Localized Score Aggregation for](2603.13749.md)
 - [S-PATH-RAG: SEMANTIC-AWARE SHORTEST-PATH RETRIEVAL](2603.23512.md)
 - [Computer Science and Engineering, University of Michigan, Ann Arbor, MI](2604.07894.md)
+- [Yuxin Zhang1,2 Mengxue Hu1 Zheng Lin3 Xiaoyi Fan4 Fan Xie5 Zihan Fang1](2605.24598.md)
 - [approach for consolidating the capabilities of mul￾tiple LLMs without retraining. However, exist￾ing merging techniques, largely based on linear](2606.03391.md)
 - [Decoupled Mixture-of-Experts for Parametric Knowledge Injection](2606.14243.md)
 - [Zhaofeng Wuã Oliver Sieberlingã Shawn Tanè](2606.18246.md)
+- [We introduce Orca, an initial instantiation of a general world foundation model.](2606.30534.md)
 - [Beyond Tokens: Dynamic Latent Reasoning via Semantic Residual Refinement](beyond_tokens_dynamic_latent_reasoning_via_semantic_residual_refinement.md)
 - [Changlian Ma1,2∗ Zizheng Huang1,4∗ Xiangyu Zeng1,2 Yi Wang2](changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2.md)
 - [Prog. Theor. Exp. Phys. 2026 023A01 (32 pages)](prog._theor._exp._phys._2026_023a01_32_pages.md)

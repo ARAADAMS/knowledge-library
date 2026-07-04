@@ -1,6 +1,46 @@
 {
-  "by_topic": {},
-  "total_written": 0,
-  "total_kept_manual": 3,
-  "rows": []
+  "by_topic": {
+    "audio_speech": 1,
+    "other": 2,
+    "ml_general": 2
+  },
+  "total_written": 5,
+  "total_kept_manual": 4,
+  "rows": [
+    {
+      "pdf": "2603.01006v2.pdf",
+      "topic": "audio_speech",
+      "slug": "2603.01006",
+      "title": "AG-REPA: Causal Layer Selection for Representation Alignment in",
+      "arxiv_id": "2603.01006"
+    },
+    {
+      "pdf": "2603.09277v1.pdf",
+      "topic": "other",
+      "slug": "2603.09277",
+      "title": "Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists",
+      "arxiv_id": "2603.09277"
+    },
+    {
+      "pdf": "2603.19682v2.pdf",
+      "topic": "other",
+      "slug": "2603.19682",
+      "title": "2Department of Computer Science, Wayne State University, Detroit, USA",
+      "arxiv_id": "2603.19682"
+    },
+    {
+      "pdf": "2605.24598v1.pdf",
+      "topic": "ml_general",
+      "slug": "2605.24598",
+      "title": "Yuxin Zhang1,2 Mengxue Hu1 Zheng Lin3 Xiaoyi Fan4 Fan Xie5 Zihan Fang1",
+      "arxiv_id": "2605.24598"
+    },
+    {
+      "pdf": "2606.30534v2.pdf",
+      "topic": "ml_general",
+      "slug": "2606.30534",
+      "title": "We introduce Orca, an initial instantiation of a general world foundation model.",
+      "arxiv_id": "2606.30534"
+    }
+  ]
 }

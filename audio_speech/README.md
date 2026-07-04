@@ -1,8 +1,9 @@
 # Audio Speech
 
-7 entries.
+8 entries.
 
 - [Nian Shao, Rui Zhou, Pengyu Wang, Xian Li, Ying Fang, Yujie Yang and Xiaofei Li](2502.20040.md)
+- [AG-REPA: Causal Layer Selection for Representation Alignment in](2603.01006.md)
 - [F.; Lastname, F. Spectrogram features](2603.14917.md)
 - [for the deposit and dissemination of scientific re￾search documents, whether they are published or not.](for_the_deposit_and_dissemination_of_scientific_re_search_documents_whether_they.md)
 - [Hooking up spectro-temporal filters with auditory-inspired representations for](hooking_up_spectro-temporal_filters_with_auditory-inspired_representations_for.md)

@@ -1,6 +1,6 @@
 # Other
 
-22 entries.
+24 entries.
 
 - [CHAUHAN, SHAIKH ET AL.: EXPLANATION BASED HANDWRITING VERIFICATION 1](1909.02548.md)
 - [©2020 Micron Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. All](2020_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md)
@@ -9,6 +9,8 @@
 - [MIXTURE-OF-EXPERTS MODELS VIA SPARSE EXPERT](2511.04805.md)
 - [Dorian Schiffer,1, 2, ∗ Robert Kindler,2, † Alexandra Bergmayr-Mann,1 Florian Kanitschar,1, 3](2601.07678.md)
 - [The Transfer Tensor Method: an Analytical Study Case](2603.08458.md)
+- [Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists](2603.09277.md)
+- [2Department of Computer Science, Wayne State University, Detroit, USA](2603.19682.md)
 - [Institute for Condensed Matter Physics, Technical University of Darmstadt, Hochschulstraße 6,](2603.29611.md)
 - [Socratic agents for autonomous scientific discovery](2606.26722.md)
 - [A COMPREHENSIVE FRAMEWORK FOR STROKE TRAJECTORY](a_comprehensive_framework_for_stroke_trajectory.md)
