@@ -1093,3 +1093,13 @@ Found 1 PDFs in /home/croft/Downloads
 
 DONE.  Written: 0.  Kept (manual edits): 1.
 By topic:
+[2026-07-05T04:22:41Z] committing 2 changed files
+[2026-07-05T04:22:41Z] pushing to origin/main
+[2026-07-05T04:22:42Z] push successful
+[2026-07-05T21:59:10Z] fetching remote...
+[2026-07-05T21:59:11Z] running PDF processor...
+Found 1 PDFs in /home/croft/Downloads
+[  1/1] KEEP (manual): 2606.14243v1.pdf → ml_general/2606.14243.md
+
+DONE.  Written: 0.  Kept (manual edits): 1.
+By topic:
