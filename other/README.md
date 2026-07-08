@@ -1,6 +1,6 @@
 # Other
 
-24 entries.
+25 entries.
 
 - [CHAUHAN, SHAIKH ET AL.: EXPLANATION BASED HANDWRITING VERIFICATION 1](1909.02548.md)
 - [©2020 Micron Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. All](2020_micron_technology_inc._all_rights_reserved._information_products_and_or_spe.md)
@@ -20,6 +20,7 @@
 - [Grid Cells are Responsible for Path Integration in](grid_cells_are_responsible_for_path_integration_in.md)
 - [KAGGLE · PLAYGROUND PREDICTION COMPETITION · 6](kaggle_playground_prediction_competition_6.md)
 - [On the Acceleration of Database Primitives on FPGAs](on_the_acceleration_of_database_primitives_on_fpgas.md)
+- [POD TESTED FOUNDING PARTNER EDITION MEDIA KIT / 2026](pod_tested_founding_partner_edition_media_kit_2026.md)
 - [(Received 15 August 2025; revised 12 November 2025; accepted 12 January 2026; published 30 March 2026)](received_15_august_2025_revised_12_november_2025_accepted_12_january_2026_publis.md)
 - [regarding product features, availability, functionality, or compatibility, are provided for informational purposes only and do not modify](regarding_product_features_availability_functionality_or_compatibility_are_provi.md)
 - [SOL4VE: Running Deep Neural Networks on the](sol4ve_running_deep_neural_networks_on_the.md)

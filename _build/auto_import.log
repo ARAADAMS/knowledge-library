@@ -1123,3 +1123,17 @@ Found 1 PDFs in /home/croft/Downloads
 
 DONE.  Written: 0.  Kept (manual edits): 1.
 By topic:
+[2026-07-07T04:13:20Z] committing 1 changed files
+[2026-07-07T04:13:20Z] pushing to origin/main
+[2026-07-07T04:13:21Z] push successful
+[2026-07-08T01:11:21Z] fetching remote...
+[2026-07-08T01:11:21Z] running PDF processor...
+Found 4 PDFs in /home/croft/Downloads
+[  1/4] KEEP (manual): 2606.14243v1.pdf → ml_general/2606.14243.md
+[  4/4] PodTested_Media_Kit_2026.pdf → other/pod_tested_founding_partner_edition_media_kit_2026.md
+
+DONE.  Written: 3.  Kept (manual edits): 1.
+By topic:
+  rl                 1
+  audio_speech       1
+  other              1
