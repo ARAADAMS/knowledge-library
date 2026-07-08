@@ -1,32 +1,6 @@
 {
-  "by_topic": {
-    "rl": 1,
-    "audio_speech": 1,
-    "other": 1
-  },
-  "total_written": 3,
-  "total_kept_manual": 1,
-  "rows": [
-    {
-      "pdf": "API-Powered Potential vs. UI-Led Reality_ Assessing OpenArt.ai's Practical Value for Team-Based Creative Production.pdf",
-      "topic": "rl",
-      "slug": "collaboration_capabilities_a_dichotomy_of_backend",
-      "title": "Collaboration Capabilities: A Dichotomy of Backend",
-      "arxiv_id": ""
-    },
-    {
-      "pdf": "Beyond ElevenLabs_ A Developer's Guide to the 2026 AI Voice Market's Quality-Cost Trade-offs.pdf",
-      "topic": "audio_speech",
-      "slug": "the_landscape_of_artificial_intelligence-powered_text-to-speech_tts_generation_i",
-      "title": "The landscape of artificial intelligence-powered text-to-speech (TTS) generation",
-      "arxiv_id": ""
-    },
-    {
-      "pdf": "PodTested_Media_Kit_2026.pdf",
-      "topic": "other",
-      "slug": "pod_tested_founding_partner_edition_media_kit_2026",
-      "title": "POD TESTED FOUNDING PARTNER EDITION MEDIA KIT / 2026",
-      "arxiv_id": ""
-    }
-  ]
+  "by_topic": {},
+  "total_written": 0,
+  "total_kept_manual": 4,
+  "rows": []
 }

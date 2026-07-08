@@ -1137,3 +1137,16 @@ By topic:
   rl                 1
   audio_speech       1
   other              1
+[2026-07-08T01:11:22Z] committing 8 changed files
+[2026-07-08T01:11:22Z] pushing to origin/main
+[2026-07-08T01:11:23Z] push successful
+[2026-07-08T04:08:27Z] fetching remote...
+[2026-07-08T04:08:28Z] running PDF processor...
+Found 4 PDFs in /home/croft/Downloads
+[  1/4] KEEP (manual): 2606.14243v1.pdf → ml_general/2606.14243.md
+[  2/4] KEEP (manual): API-Powered Potential vs. UI-Led Reality_ Assessing OpenArt.ai's Practical Value for Team-Based Creative Production.pdf → rl/collaboration_capabilities_a_dichotomy_of_backend.md
+[  3/4] KEEP (manual): Beyond ElevenLabs_ A Developer's Guide to the 2026 AI Voice Market's Quality-Cost Trade-offs.pdf → audio_speech/the_landscape_of_artificial_intelligence-powered_text-to-speech_tts_generation_i.md
+[  4/4] KEEP (manual): PodTested_Media_Kit_2026.pdf → other/pod_tested_founding_partner_edition_media_kit_2026.md
+
+DONE.  Written: 0.  Kept (manual edits): 4.
+By topic:
