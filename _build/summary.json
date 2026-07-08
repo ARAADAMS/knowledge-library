@@ -1,6 +1,23 @@
 {
-  "by_topic": {},
-  "total_written": 0,
-  "total_kept_manual": 4,
-  "rows": []
+  "by_topic": {
+    "ml_general": 2
+  },
+  "total_written": 2,
+  "total_kept_manual": 1,
+  "rows": [
+    {
+      "pdf": "2606.23885v1.pdf",
+      "topic": "ml_general",
+      "slug": "2606.23885",
+      "title": "Pier Luigi Dovesi3 Mark Granroth-Wilding3 Marcella Cornia1 Lorenzo Baraldi1",
+      "arxiv_id": "2606.23885"
+    },
+    {
+      "pdf": "Building OpenArt.ai Director Locally_ An Open-Source Blueprint for Visual and Audio Consistency.pdf",
+      "topic": "ml_general",
+      "slug": "to_replicate_the_high-quality_consistent_output_of_openart.ai_director_in_a_loca",
+      "title": "To replicate the high-quality, consistent output of OpenArt.ai Director in a loc",
+      "arxiv_id": ""
+    }
+  ]
 }

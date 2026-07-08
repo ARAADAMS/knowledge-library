@@ -1,6 +1,6 @@
 # Ml General
 
-39 entries.
+41 entries.
 
 - [1. Introduction: The Epistemic Crisis of Factual](1._introduction_the_epistemic_crisis_of_factual.md)
 - [14010_Toward_a_Sheaf_Theoretic](14010_toward_a_sheaf_theoretic.md)
@@ -30,6 +30,7 @@
 - [approach for consolidating the capabilities of mul￾tiple LLMs without retraining. However, exist￾ing merging techniques, largely based on linear](2606.03391.md)
 - [Decoupled Mixture-of-Experts for Parametric Knowledge Injection](2606.14243.md)
 - [Zhaofeng Wuã Oliver Sieberlingã Shawn Tanè](2606.18246.md)
+- [Pier Luigi Dovesi3 Mark Granroth-Wilding3 Marcella Cornia1 Lorenzo Baraldi1](2606.23885.md)
 - [We introduce Orca, an initial instantiation of a general world foundation model.](2606.30534.md)
 - [Beyond Tokens: Dynamic Latent Reasoning via Semantic Residual Refinement](beyond_tokens_dynamic_latent_reasoning_via_semantic_residual_refinement.md)
 - [Changlian Ma1,2∗ Zizheng Huang1,4∗ Xiangyu Zeng1,2 Yi Wang2](changlian_ma1_2_zizheng_huang1_4_xiangyu_zeng1_2_yi_wang2.md)
@@ -40,4 +41,5 @@
 - [The deployment of large language models in rigorous mathematical domains requires](the_deployment_of_large_language_models_in_rigorous_mathematical_domains_require.md)
 - [The Theoretical Foundations of Fluid Intelligence and](the_theoretical_foundations_of_fluid_intelligence_and.md)
 - [The transition of artificial intelligence from conversational large language models (LLMs) to](the_transition_of_artificial_intelligence_from_conversational_large_language_mod.md)
+- [To replicate the high-quality, consistent output of OpenArt.ai Director in a local](to_replicate_the_high-quality_consistent_output_of_openart.ai_director_in_a_loca.md)
 - [Topological Knowledge Debridement in](topological_knowledge_debridement_in.md)
