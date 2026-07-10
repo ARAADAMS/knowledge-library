@@ -1174,3 +1174,15 @@ Found 3 PDFs in /home/croft/Downloads
 
 DONE.  Written: 0.  Kept (manual edits): 3.
 By topic:
+[2026-07-08T20:39:36Z] committing 2 changed files
+[2026-07-08T20:39:36Z] pushing to origin/main
+[2026-07-08T20:39:37Z] push successful
+[2026-07-10T07:59:35Z] fetching remote...
+[2026-07-10T07:59:36Z] running PDF processor...
+Found 3 PDFs in /home/croft/Downloads
+[  1/3] KEEP (manual): 2606.14243v1.pdf → ml_general/2606.14243.md
+[  2/3] KEEP (manual): 2606.23885v1.pdf → ml_general/2606.23885.md
+[  3/3] KEEP (manual): Building OpenArt.ai Director Locally_ An Open-Source Blueprint for Visual and Audio Consistency.pdf → ml_general/to_replicate_the_high-quality_consistent_output_of_openart.ai_director_in_a_loca.md
+
+DONE.  Written: 0.  Kept (manual edits): 3.
+By topic:
